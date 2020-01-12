@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 85312b15eb2ba63498a103001f149e09
+timeCreated: 1549962724
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameLevelLine01
+    21300002: GameLevelLine02
+    21300004: GamePause
+    21300006: GamelevelSelect
+    21300008: GamelevelSelect01
+    21300010: GamelevelSelect02
+    21300012: Over
+    21300014: bgGamePause
+    21300016: btn01
+    21300018: btn02
+    21300020: btnGamelevel
+    21300022: btnHelp01
+    21300024: btnHelp02
+    21300026: btnPause01
+    21300028: btnPause02
+    21300030: btnStart
+    21300032: btnStart01
+    21300034: btnStart02
+    21300036: clear01
+    21300038: clear02
+    21300040: help01
+    21300042: help02
+    21300044: lock
+    21300046: logo
+    21300048: music01
+    21300050: music02
+    21300052: nextGamelevel01
+    21300054: nextGamelevel02
+    21300056: pGamelevelSelect
+    21300058: pause
+    21300060: restart01
+    21300062: restart02
+    21300064: return01
+    21300066: return02
+    21300068: returnGame01
+    21300070: returnGame02
+    21300072: start01
+    21300074: start02
+    21300076: bgHelp
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameLevelLine01
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1734
+        width: 100
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GameLevelLine02
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1946
+        width: 6
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GamePause
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1830
+        width: 265
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5226415, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GamelevelSelect
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1974
+        width: 272
+        height: 72
+      alignment: 9
+      pivot: {x: 0.48161766, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GamelevelSelect01
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1248
+        width: 146
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GamelevelSelect02
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1288
+        width: 146
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Over
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1901
+        width: 265
+        height: 71
+      alignment: 9
+      pivot: {x: 0.51509434, y: 0.5422535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bgGamePause
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 786
+        width: 598
+        height: 496
+      alignment: 9
+      pivot: {x: 0.50167227, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bgHelp
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1284
+        width: 598
+        height: 496
+      alignment: 9
+      pivot: {x: 0.50167227, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn01
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1184
+        width: 70
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1218
+        width: 70
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnGamelevel
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1246
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnHelp01
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1226
+        width: 82
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnHelp02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1260
+        width: 82
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnPause01
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1528
+        width: 250
+        height: 70
+      alignment: 9
+      pivot: {x: 0.492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnPause02
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1758
+        width: 250
+        height: 70
+      alignment: 9
+      pivot: {x: 0.492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnStart
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1290
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnStart01
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1328
+        width: 230
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnStart02
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1428
+        width: 230
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clear01
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1328
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clear02
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1360
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: help01
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1212
+        width: 54
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: help02
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1262
+        width: 54
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lock
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1728
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: logo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1782
+        width: 736
+        height: 264
+      alignment: 9
+      pivot: {x: 0.4986413, y: 0.4810606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: music01
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1798
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: music02
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1768
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.60714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nextGamelevel01
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1208
+        width: 108
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nextGamelevel02
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1742
+        width: 108
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pGamelevelSelect
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1600
+        width: 412
+        height: 126
+      alignment: 9
+      pivot: {x: 0.50242716, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pause
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1728
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: restart01
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1296
+        width: 146
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: restart02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1336
+        width: 146
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: return01
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1392
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: return02
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1424
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: returnGame01
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1376
+        width: 146
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: returnGame02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1416
+        width: 146
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: start01
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1456
+        width: 166
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: start02
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1528
+        width: 166
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

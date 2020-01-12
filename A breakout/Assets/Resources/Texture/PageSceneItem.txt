@@ -1,0 +1,100 @@
+{"frames": {
+
+"BG.png":
+{
+	"frame": {"x":2,"y":2,"w":1022,"h":1363},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1022,"h":1363},
+	"sourceSize": {"w":1022,"h":1363}
+},
+"GateWay.png":
+{
+	"frame": {"x":2,"y":1563,"w":69,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":18,"w":69,"h":83},
+	"sourceSize": {"w":95,"h":115}
+},
+"Hex-1.png":
+{
+	"frame": {"x":165,"y":1419,"w":88,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":50},
+	"sourceSize": {"w":88,"h":50}
+},
+"Hex-2.png":
+{
+	"frame": {"x":154,"y":1367,"w":88,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":50},
+	"sourceSize": {"w":88,"h":50}
+},
+"Hex-3.png":
+{
+	"frame": {"x":75,"y":1460,"w":88,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":50},
+	"sourceSize": {"w":88,"h":50}
+},
+"Hex-4.png":
+{
+	"frame": {"x":244,"y":1367,"w":86,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":86,"h":50},
+	"sourceSize": {"w":88,"h":50}
+},
+"Obstacle1.png":
+{
+	"frame": {"x":2,"y":1367,"w":61,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":7,"w":61,"h":99},
+	"sourceSize": {"w":95,"h":115}
+},
+"Obstacle2.png":
+{
+	"frame": {"x":73,"y":1563,"w":117,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":117,"h":69},
+	"sourceSize": {"w":117,"h":115}
+},
+"Obstacle3.png":
+{
+	"frame": {"x":2,"y":1468,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":71,"h":93},
+	"sourceSize": {"w":95,"h":115}
+},
+"Obstacle4.png":
+{
+	"frame": {"x":2,"y":1648,"w":71,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":31,"w":71,"h":79},
+	"sourceSize": {"w":95,"h":115}
+},
+"Obstacle5.png":
+{
+	"frame": {"x":65,"y":1367,"w":87,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":22,"w":87,"h":91},
+	"sourceSize": {"w":95,"h":115}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "PageSceneItem.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8b52381aa9736585150be7e6c5540687$"
+}
+}

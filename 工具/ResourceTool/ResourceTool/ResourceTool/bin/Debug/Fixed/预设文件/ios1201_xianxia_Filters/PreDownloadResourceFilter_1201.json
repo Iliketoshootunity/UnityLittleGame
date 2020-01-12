@@ -1,0 +1,36 @@
+{
+	"KeyWords":
+	[
+		"Android/",
+		"iOS/",
+		"ScaleMap/",
+		"byte",
+		"luaRes",
+		"ResourceRes"
+	]
+	,
+	"Resources":
+	[
+		"Model/UIEffect/role01",
+		"Model/UIEffect/role02",
+		"Model/UIEffect/role03",
+		"Model/UIEffect/role11",
+		"Model/UIEffect/role12",
+		"Model/UIEffect/role13",
+		"Model/UIEffect/career1",
+		"Model/UIEffect/career2",
+		"Model/UIEffect/career3",
+		"Model/UIEffect/spineeffect01",
+		"Model/UIEffect/spineeffect02",
+		"Model/UIEffect/spineeffect03",
+		"Model/UIEffect/spineeffect11",
+		"Model/UIEffect/spineeffect12",
+		"Model/UIEffect/spineeffect13",
+		"Model/UIEffect/spinerole01",
+		"Model/UIEffect/spinerole02",
+		"Model/UIEffect/spinerole03",
+		"Model/UIEffect/spinerole11",
+		"Model/UIEffect/spinerole12",
+		"Model/UIEffect/spinerole13"
+	]
+}

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 280dbccd931bca44db7dbf5c0949a7e5
+timeCreated: 1552287426
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cell
+    21300002: Level1
+    21300004: S
+    21300006: Win
+    21300008: btnMusicOff
+    21300010: btnMusicOn
+    21300012: btnNext
+    21300014: btnRestart1
+    21300016: btnRetstart
+    21300018: btnReturn
+    21300020: btnReturn1
+    21300022: btnSide
+    21300024: btnStartGame
+    21300026: dadi
+    21300028: fail
+    21300030: level
+    21300032: level2
+    21300034: levelSelect
+    21300036: head
+    21300038: line
+    21300040: shadow
+    21300042: Fingner
+    21300044: guide
+    21300046: qizi/qizi0001
+    21300048: qizi/qizi0002
+    21300050: qizi/qizi0003
+    21300052: qizi/qizi0004
+    21300054: qizi/qizi0005
+    21300056: qizi/qizi0006
+    21300058: qizi/qizi0007
+    21300060: qizi/qizi0008
+    21300062: qizi/qizi0009
+    21300064: qizi/qizi0010
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cell
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 430
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fingner
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 507
+        width: 93
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.489011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Level1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 502
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: S
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 500
+        width: 75
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Win
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 922
+        width: 322
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5031056, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnMusicOff
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnMusicOn
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 383
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnNext
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 558
+        width: 158
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnRestart1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 383
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnRetstart
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 600
+        width: 158
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnReturn
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 640
+        width: 158
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnReturn1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 402
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnSide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 56
+        height: 86
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnStartGame
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 742
+        width: 238
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dadi
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 672
+        width: 660
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fail
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 820
+        width: 312
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47115386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: guide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 612
+        width: 487
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5020534, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 474
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 615
+        width: 142
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: level2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 722
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: levelSelect
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 682
+        width: 186
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: line
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 455
+        width: 75
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0001
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 944
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0002
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 964
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0003
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 964
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0004
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 984
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0005
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 984
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0006
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1004
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0007
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1004
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0008
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1004
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0009
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 944
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qizi/qizi0010
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 944
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shadow
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 571
+        width: 131
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

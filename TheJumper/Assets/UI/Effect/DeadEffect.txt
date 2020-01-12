@@ -1,0 +1,92 @@
+{"frames": {
+
+"0000.png":
+{
+	"frame": {"x":168,"y":2,"w":162,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":14,"w":162,"h":152},
+	"sourceSize": {"w":208,"h":182}
+},
+"0001.png":
+{
+	"frame": {"x":2,"y":2,"w":164,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":18,"w":164,"h":148},
+	"sourceSize": {"w":208,"h":182}
+},
+"0002.png":
+{
+	"frame": {"x":2,"y":152,"w":158,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":18,"w":158,"h":148},
+	"sourceSize": {"w":208,"h":182}
+},
+"0003.png":
+{
+	"frame": {"x":332,"y":142,"w":150,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":19,"w":150,"h":146},
+	"sourceSize": {"w":208,"h":182}
+},
+"0004.png":
+{
+	"frame": {"x":332,"y":2,"w":154,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":15,"w":154,"h":138},
+	"sourceSize": {"w":208,"h":182}
+},
+"0005.png":
+{
+	"frame": {"x":312,"y":290,"w":144,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":9,"w":144,"h":142},
+	"sourceSize": {"w":208,"h":182}
+},
+"0006.png":
+{
+	"frame": {"x":2,"y":302,"w":146,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":0,"w":146,"h":148},
+	"sourceSize": {"w":208,"h":182}
+},
+"0007.png":
+{
+	"frame": {"x":162,"y":156,"w":148,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":148,"h":152},
+	"sourceSize": {"w":208,"h":182}
+},
+"0008.png":
+{
+	"frame": {"x":150,"y":310,"w":122,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":30,"w":122,"h":126},
+	"sourceSize": {"w":208,"h":182}
+},
+"0009.png":
+{
+	"frame": {"x":274,"y":434,"w":114,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":52,"w":114,"h":102},
+	"sourceSize": {"w":208,"h":182}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "DeadEffect.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f90a44e7c70ef62e16072d0c277b0547$"
+}
+}

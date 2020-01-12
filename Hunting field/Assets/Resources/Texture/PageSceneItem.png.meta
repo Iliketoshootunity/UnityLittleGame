@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 65e5bbaf399fd3e4ca48a2501f4d6f87
+timeCreated: 1551074412
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cell
+    21300002: Line
+    21300004: Number/0
+    21300006: Number/1
+    21300008: Number/2
+    21300010: Number/3
+    21300012: Number/4
+    21300014: Number/5
+    21300016: Number/6
+    21300018: Number/7
+    21300020: Number/8
+    21300022: Number/9
+    21300024: SceneBG
+    21300026: MonsterRange
+    21300028: Stronghold
+    21300030: StrongholdRange
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cell
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Line
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: MonsterRange
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 133
+        width: 132
+        height: 35
+      alignment: 9
+      pivot: {x: 0.49242425, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 58
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 62
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 116
+        width: 38
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 114
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 62
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 114
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 58
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SceneBG
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 1136
+        height: 852
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: StrongholdRange
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 130
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4846154, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

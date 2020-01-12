@@ -1,0 +1,132 @@
+{"frames": {
+
+"Skill_TainGou/00000.png":
+{
+	"frame": {"x":1156,"y":824,"w":192,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":261,"w":192,"h":282},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00001.png":
+{
+	"frame": {"x":1512,"y":2,"w":350,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":194,"w":350,"h":346},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00002.png":
+{
+	"frame": {"x":1112,"y":2,"w":398,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":196,"w":398,"h":384},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00003.png":
+{
+	"frame": {"x":788,"y":1442,"w":422,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":184,"w":422,"h":396},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00004.png":
+{
+	"frame": {"x":386,"y":1492,"w":400,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":179,"w":400,"h":404},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00005.png":
+{
+	"frame": {"x":766,"y":1040,"w":388,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":180,"w":388,"h":400},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00006.png":
+{
+	"frame": {"x":776,"y":426,"w":382,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":184,"w":382,"h":396},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00007.png":
+{
+	"frame": {"x":748,"y":2,"w":362,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":158,"w":362,"h":422},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00008.png":
+{
+	"frame": {"x":382,"y":1040,"w":382,"h":450},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":130,"w":382,"h":450},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00009.png":
+{
+	"frame": {"x":2,"y":1568,"w":382,"h":478},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":102,"w":382,"h":478},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00010.png":
+{
+	"frame": {"x":382,"y":534,"w":392,"h":504},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":76,"w":392,"h":504},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00011.png":
+{
+	"frame": {"x":2,"y":534,"w":378,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":58,"w":378,"h":522},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00012.png":
+{
+	"frame": {"x":2,"y":1058,"w":378,"h":508},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":72,"w":378,"h":508},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00013.png":
+{
+	"frame": {"x":2,"y":2,"w":400,"h":530},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":50,"w":400,"h":530},
+	"sourceSize": {"w":640,"h":640}
+},
+"Skill_TainGou/00014.png":
+{
+	"frame": {"x":404,"y":2,"w":342,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":111,"w":342,"h":436},
+	"sourceSize": {"w":640,"h":640}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "PageEffects.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:61803c503919bcb17440e05453e8e9db$"
+}
+}

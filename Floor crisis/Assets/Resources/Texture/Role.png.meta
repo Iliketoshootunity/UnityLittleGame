@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 10673a9c8cc807c468f4005a6f71325e
+timeCreated: 1547193058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Role_01/Jump/Attack_2_0015
+    21300002: Role_01/Jump/Attack_2_0016
+    21300004: Role_01/Jump/Attack_2_0017
+    21300006: Role_01/Jump/Attack_2_0018
+    21300008: Role_01/Jump/Attack_2_0019
+    21300010: Role_01/Run/Run_2_0002
+    21300012: Role_01/Run/Run_2_0003
+    21300014: Role_01/Run/Run_2_0004
+    21300016: Role_01/Run/Run_2_0005
+    21300018: Role_01/Run/Run_2_0006
+    21300020: Role_01/Run/Run_2_0007
+    21300022: Role_02/Jump/Attack_2_0015
+    21300024: Role_02/Jump/Attack_2_0016
+    21300026: Role_02/Jump/Attack_2_0017
+    21300028: Role_02/Jump/Attack_2_0018
+    21300030: Role_02/Jump/Attack_2_0019
+    21300032: Role_02/Walk/Run_2_0000
+    21300034: Role_02/Walk/Run_2_0001
+    21300036: Role_02/Walk/Run_2_0002
+    21300038: Role_02/Walk/Run_2_0003
+    21300040: Role_02/Walk/Run_2_0004
+    21300042: Role_02/Walk/Run_2_0005
+    21300044: Role_02/Walk/Run_2_0006
+    21300046: Role_02/Walk/Run_2_0007
+    21300048: Role_03/Jump/Stand_2_0016
+    21300050: Role_03/Jump/Stand_2_0017
+    21300052: Role_03/Jump/Stand_2_0018
+    21300054: Role_03/Jump/Stand_2_0019
+    21300056: Role_03/Jump/Stand_2_0020
+    21300058: Role_03/Jump/Stand_2_0021
+    21300060: Role_03/Jump/Stand_2_0022
+    21300062: Role_03/Walk/Run_2_0000
+    21300064: Role_03/Walk/Run_2_0001
+    21300066: Role_03/Walk/Run_2_0002
+    21300068: Role_03/Walk/Run_2_0003
+    21300070: Role_03/Walk/Run_2_0004
+    21300072: Role_03/Walk/Run_2_0005
+    21300074: Role_03/Walk/Run_2_0006
+    21300076: Role_03/Walk/Run_2_0007
+    21300078: Role_01/Run/Run_2_0000
+    21300080: Role_01/Run/Run_2_0001
+    21300082: HurtEffect/001_0000
+    21300084: HurtEffect/001_0001
+    21300086: HurtEffect/001_0002
+    21300088: HurtEffect/001_0003
+    21300090: HurtEffect/001_0004
+    21300092: HurtEffect/001_0005
+    21300094: HurtEffect/001_0006
+    21300096: DeadEffect/player1dead1
+    21300098: DeadEffect/player1dead2
+    21300100: DeadEffect/player1dead3
+    21300102: DeadEffect/player1dead4
+    21300104: DeadEffect/player1dead5
+    21300106: DeadEffect/player1dead6
+    21300108: Role_01/Stand_4_0000
+    21300110: Role_02/Stand_4_0000
+    21300112: Role_03/Stand_4_0000
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeadEffect/player1dead1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 748
+        width: 284
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5140845, y: 0.52554744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeadEffect/player1dead2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 750
+        width: 266
+        height: 272
+      alignment: 9
+      pivot: {x: 0.48872182, y: 0.44485295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeadEffect/player1dead3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 278
+        height: 254
+      alignment: 9
+      pivot: {x: 0.51079136, y: 0.48818898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeadEffect/player1dead4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 526
+        width: 244
+        height: 240
+      alignment: 9
+      pivot: {x: 0.44262296, y: 0.49583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeadEffect/player1dead5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 238
+        height: 214
+      alignment: 9
+      pivot: {x: 0.42016807, y: 0.4813084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeadEffect/player1dead6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 826
+        width: 176
+        height: 196
+      alignment: 9
+      pivot: {x: 0.6136364, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0000
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 178
+        width: 94
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5744681, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0001
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 620
+        width: 130
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4846154, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0002
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 688
+        width: 138
+        height: 136
+      alignment: 9
+      pivot: {x: 0.44927537, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0003
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 626
+        width: 132
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4469697, y: 0.46721312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0004
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 500
+        width: 130
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4076923, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0005
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 422
+        width: 136
+        height: 108
+      alignment: 9
+      pivot: {x: 0.41911766, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HurtEffect/001_0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 138
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4057971, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Jump/Attack_2_0015
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 111
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Jump/Attack_2_0017
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 47
+        width: 64
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Jump/Attack_2_0018
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 410
+        width: 58
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Jump/Attack_2_0019
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 107
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0000
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 164
+        width: 92
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6304348, y: 0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0001
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 215
+        width: 96
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.57758623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0002
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 268
+        width: 94
+        height: 114
+      alignment: 9
+      pivot: {x: 0.60638297, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0003
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 334
+        width: 104
+        height: 116
+      alignment: 9
+      pivot: {x: 0.63461536, y: 0.5603448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0004
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 298
+        width: 96
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5729167, y: 0.57272726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0005
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 276
+        width: 98
+        height: 114
+      alignment: 9
+      pivot: {x: 0.56122446, y: 0.5701754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0006
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 218
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.54901963, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Run/Run_2_0007
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 452
+        width: 104
+        height: 116
+      alignment: 9
+      pivot: {x: 0.63461536, y: 0.57758623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_01/Stand_4_0000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 82
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54477614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Jump/Attack_2_0015
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 106
+        width: 81
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Jump/Attack_2_0017
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 163
+        width: 72
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Jump/Attack_2_0018
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 294
+        width: 57
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Jump/Attack_2_0019
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 177
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Stand_4_0000
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 622
+        width: 40
+        height: 124
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5322581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0000
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 150
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.597561, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0001
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 260
+        width: 82
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5731707, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0002
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 32
+        width: 86
+        height: 116
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0003
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 32
+        width: 76
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.5603448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.58928573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0005
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 48
+        width: 86
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0006
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 54
+        width: 88
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.5462963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_02/Walk/Run_2_0007
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 51
+        width: 80
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6, y: 0.56363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Jump/Stand_2_0019
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 92
+        width: 61
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Jump/Stand_2_0020
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 376
+        width: 86
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Jump/Stand_2_0021
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 333
+        width: 102
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Jump/Stand_2_0022
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 451
+        width: 113
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Stand_4_0000
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 84
+        height: 132
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0000
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 392
+        width: 108
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0001
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 570
+        width: 100
+        height: 116
+      alignment: 9
+      pivot: {x: 0.54, y: 0.57758623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0002
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 221
+        width: 96
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0003
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 384
+        width: 100
+        height: 114
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0004
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 221
+        width: 100
+        height: 110
+      alignment: 9
+      pivot: {x: 0.54, y: 0.57272726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0005
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 410
+        width: 100
+        height: 114
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5701754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0006
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 504
+        width: 114
+        height: 114
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.54385966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Role_03/Walk/Run_2_0007
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 570
+        width: 120
+        height: 116
+      alignment: 9
+      pivot: {x: 0.525, y: 0.57758623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

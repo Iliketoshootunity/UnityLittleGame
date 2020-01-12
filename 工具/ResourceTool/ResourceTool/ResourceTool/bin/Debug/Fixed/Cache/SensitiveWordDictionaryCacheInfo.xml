@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfSensitiveWordDictionaryCacheInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SensitiveWordDictionaryCacheInfo>
+    <敏感词>敏感词</敏感词>
+    <替换词>替换词</替换词>
+  </SensitiveWordDictionaryCacheInfo>
+    <SensitiveWordDictionaryCacheInfo>
+    <敏感词>c</敏感词>
+    <替换词>a</替换词>
+  </SensitiveWordDictionaryCacheInfo>
+</ArrayOfSensitiveWordDictionaryCacheInfo>

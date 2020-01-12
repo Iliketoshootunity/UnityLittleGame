@@ -1,0 +1,3790 @@
+fileFormatVersion: 2
+guid: 5f2ba584c46c88e4cb09bce8f9e0058d
+timeCreated: 1553330328
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster/atk/00001
+    21300002: Monster/atk/00002
+    21300004: Monster/atk/00003
+    21300006: Monster/atk/00004
+    21300008: Monster/atk/00005
+    21300010: Monster/atk/00006
+    21300012: Monster/atk/00007
+    21300014: Monster/atk/00008
+    21300016: Monster/atk/10001
+    21300018: Monster/atk/10002
+    21300020: Monster/atk/10003
+    21300022: Monster/atk/10004
+    21300024: Monster/atk/10005
+    21300026: Monster/atk/10006
+    21300028: Monster/atk/10007
+    21300030: Monster/atk/10008
+    21300032: Monster/atk/20001
+    21300034: Monster/atk/20002
+    21300036: Monster/atk/20003
+    21300038: Monster/atk/20004
+    21300040: Monster/atk/20005
+    21300042: Monster/atk/20006
+    21300044: Monster/atk/20007
+    21300046: Monster/atk/20008
+    21300048: Monster/atk/30001
+    21300050: Monster/atk/30002
+    21300052: Monster/atk/30003
+    21300054: Monster/atk/30004
+    21300056: Monster/atk/30005
+    21300058: Monster/atk/30006
+    21300060: Monster/atk/30007
+    21300062: Monster/atk/30008
+    21300064: Monster/atk/40001
+    21300066: Monster/atk/40002
+    21300068: Monster/atk/40003
+    21300070: Monster/atk/40004
+    21300072: Monster/atk/40005
+    21300074: Monster/atk/40006
+    21300076: Monster/atk/40007
+    21300078: Monster/atk/40008
+    21300080: Monster/atk/50001
+    21300082: Monster/atk/50002
+    21300084: Monster/atk/50003
+    21300086: Monster/atk/50004
+    21300088: Monster/atk/50005
+    21300090: Monster/atk/50006
+    21300092: Monster/atk/50007
+    21300094: Monster/atk/50008
+    21300096: Monster/atk/60001
+    21300098: Monster/atk/60002
+    21300100: Monster/atk/60003
+    21300102: Monster/atk/60004
+    21300104: Monster/atk/60005
+    21300106: Monster/atk/60006
+    21300108: Monster/atk/60007
+    21300110: Monster/atk/60008
+    21300112: Monster/atk/70001
+    21300114: Monster/atk/70002
+    21300116: Monster/atk/70003
+    21300118: Monster/atk/70004
+    21300120: Monster/atk/70005
+    21300122: Monster/atk/70006
+    21300124: Monster/atk/70007
+    21300126: Monster/atk/70008
+    21300128: Monster/run/00001
+    21300130: Monster/run/00002
+    21300132: Monster/run/00003
+    21300134: Monster/run/00004
+    21300136: Monster/run/00005
+    21300138: Monster/run/00006
+    21300140: Monster/run/00007
+    21300142: Monster/run/00008
+    21300144: Monster/run/10001
+    21300146: Monster/run/10002
+    21300148: Monster/run/10003
+    21300150: Monster/run/10004
+    21300152: Monster/run/10005
+    21300154: Monster/run/10006
+    21300156: Monster/run/10007
+    21300158: Monster/run/10008
+    21300160: Monster/run/20001
+    21300162: Monster/run/20002
+    21300164: Monster/run/20003
+    21300166: Monster/run/20004
+    21300168: Monster/run/20005
+    21300170: Monster/run/20006
+    21300172: Monster/run/20007
+    21300174: Monster/run/20008
+    21300176: Monster/run/30001
+    21300178: Monster/run/30002
+    21300180: Monster/run/30003
+    21300182: Monster/run/30004
+    21300184: Monster/run/30005
+    21300186: Monster/run/30006
+    21300188: Monster/run/30007
+    21300190: Monster/run/30008
+    21300192: Monster/run/40001
+    21300194: Monster/run/40002
+    21300196: Monster/run/40003
+    21300198: Monster/run/40004
+    21300200: Monster/run/40005
+    21300202: Monster/run/40006
+    21300204: Monster/run/40007
+    21300206: Monster/run/40008
+    21300208: Monster/run/50001
+    21300210: Monster/run/50002
+    21300212: Monster/run/50003
+    21300214: Monster/run/50004
+    21300216: Monster/run/50005
+    21300218: Monster/run/50006
+    21300220: Monster/run/50007
+    21300222: Monster/run/50008
+    21300224: Monster/run/60001
+    21300226: Monster/run/60002
+    21300228: Monster/run/60003
+    21300230: Monster/run/60004
+    21300232: Monster/run/60005
+    21300234: Monster/run/60006
+    21300236: Monster/run/60007
+    21300238: Monster/run/60008
+    21300240: Monster/run/70001
+    21300242: Monster/run/70002
+    21300244: Monster/run/70003
+    21300246: Monster/run/70004
+    21300248: Monster/run/70005
+    21300250: Monster/run/70006
+    21300252: Monster/run/70007
+    21300254: Monster/run/70008
+    21300256: Monster/stand/00001
+    21300258: Monster/stand/00002
+    21300260: Monster/stand/00003
+    21300262: Monster/stand/00004
+    21300264: Monster/stand/00005
+    21300266: Monster/stand/00006
+    21300268: Monster/stand/10001
+    21300270: Monster/stand/10002
+    21300272: Monster/stand/10003
+    21300274: Monster/stand/10004
+    21300276: Monster/stand/10005
+    21300278: Monster/stand/10006
+    21300280: Monster/stand/20001
+    21300282: Monster/stand/20002
+    21300284: Monster/stand/20003
+    21300286: Monster/stand/20004
+    21300288: Monster/stand/20005
+    21300290: Monster/stand/20006
+    21300292: Monster/stand/30001
+    21300294: Monster/stand/30002
+    21300296: Monster/stand/30003
+    21300298: Monster/stand/30004
+    21300300: Monster/stand/30005
+    21300302: Monster/stand/30006
+    21300304: Monster/stand/40001
+    21300306: Monster/stand/40002
+    21300308: Monster/stand/40003
+    21300310: Monster/stand/40004
+    21300312: Monster/stand/40005
+    21300314: Monster/stand/40006
+    21300316: Monster/stand/50001
+    21300318: Monster/stand/50002
+    21300320: Monster/stand/50003
+    21300322: Monster/stand/50004
+    21300324: Monster/stand/50005
+    21300326: Monster/stand/50006
+    21300328: Monster/stand/60001
+    21300330: Monster/stand/60002
+    21300332: Monster/stand/60003
+    21300334: Monster/stand/60004
+    21300336: Monster/stand/60005
+    21300338: Monster/stand/60006
+    21300340: Monster/stand/70001
+    21300342: Monster/stand/70002
+    21300344: Monster/stand/70003
+    21300346: Monster/stand/70004
+    21300348: Monster/stand/70005
+    21300350: Monster/stand/70006
+    21300352: Player/die/00001
+    21300354: Player/die/00002
+    21300356: Player/die/00003
+    21300358: Player/die/10001
+    21300360: Player/die/10002
+    21300362: Player/die/10003
+    21300364: Player/die/20001
+    21300366: Player/die/20002
+    21300368: Player/die/20003
+    21300370: Player/die/30001
+    21300372: Player/die/30002
+    21300374: Player/die/30003
+    21300376: Player/die/40001
+    21300378: Player/die/40002
+    21300380: Player/die/40003
+    21300382: Player/die/50001
+    21300384: Player/die/50002
+    21300386: Player/die/50003
+    21300388: Player/die/60001
+    21300390: Player/die/60002
+    21300392: Player/die/60003
+    21300394: Player/die/70001
+    21300396: Player/die/70002
+    21300398: Player/die/70003
+    21300400: Player/run/00001
+    21300402: Player/run/00002
+    21300404: Player/run/00003
+    21300406: Player/run/00004
+    21300408: Player/run/00005
+    21300410: Player/run/00006
+    21300412: Player/run/00007
+    21300414: Player/run/00008
+    21300416: Player/run/10001
+    21300418: Player/run/10002
+    21300420: Player/run/10003
+    21300422: Player/run/10004
+    21300424: Player/run/10005
+    21300426: Player/run/10006
+    21300428: Player/run/10007
+    21300430: Player/run/10008
+    21300432: Player/run/20001
+    21300434: Player/run/20002
+    21300436: Player/run/20003
+    21300438: Player/run/20004
+    21300440: Player/run/20005
+    21300442: Player/run/20006
+    21300444: Player/run/20007
+    21300446: Player/run/20008
+    21300448: Player/run/30001
+    21300450: Player/run/30002
+    21300452: Player/run/30003
+    21300454: Player/run/30004
+    21300456: Player/run/30005
+    21300458: Player/run/30006
+    21300460: Player/run/30007
+    21300462: Player/run/30008
+    21300464: Player/run/40001
+    21300466: Player/run/40002
+    21300468: Player/run/40003
+    21300470: Player/run/40004
+    21300472: Player/run/40005
+    21300474: Player/run/40006
+    21300476: Player/run/40007
+    21300478: Player/run/40008
+    21300480: Player/run/50001
+    21300482: Player/run/50002
+    21300484: Player/run/50003
+    21300486: Player/run/50004
+    21300488: Player/run/50005
+    21300490: Player/run/50006
+    21300492: Player/run/50007
+    21300494: Player/run/50008
+    21300496: Player/run/60001
+    21300498: Player/run/60002
+    21300500: Player/run/60003
+    21300502: Player/run/60004
+    21300504: Player/run/60005
+    21300506: Player/run/60006
+    21300508: Player/run/60007
+    21300510: Player/run/60008
+    21300512: Player/run/70001
+    21300514: Player/run/70002
+    21300516: Player/run/70003
+    21300518: Player/run/70004
+    21300520: Player/run/70005
+    21300522: Player/run/70006
+    21300524: Player/run/70007
+    21300526: Player/run/70008
+    21300528: Player/stand/00001
+    21300530: Player/stand/00002
+    21300532: Player/stand/00003
+    21300534: Player/stand/00004
+    21300536: Player/stand/00005
+    21300538: Player/stand/00006
+    21300540: Player/stand/10001
+    21300542: Player/stand/10002
+    21300544: Player/stand/10003
+    21300546: Player/stand/10004
+    21300548: Player/stand/10005
+    21300550: Player/stand/10006
+    21300552: Player/stand/20001
+    21300554: Player/stand/20002
+    21300556: Player/stand/20003
+    21300558: Player/stand/20004
+    21300560: Player/stand/20005
+    21300562: Player/stand/20006
+    21300564: Player/stand/30001
+    21300566: Player/stand/30002
+    21300568: Player/stand/30003
+    21300570: Player/stand/30004
+    21300572: Player/stand/30005
+    21300574: Player/stand/30006
+    21300576: Player/stand/40001
+    21300578: Player/stand/40002
+    21300580: Player/stand/40003
+    21300582: Player/stand/40004
+    21300584: Player/stand/40005
+    21300586: Player/stand/40006
+    21300588: Player/stand/50001
+    21300590: Player/stand/50002
+    21300592: Player/stand/50003
+    21300594: Player/stand/50004
+    21300596: Player/stand/50005
+    21300598: Player/stand/50006
+    21300600: Player/stand/60001
+    21300602: Player/stand/60002
+    21300604: Player/stand/60003
+    21300606: Player/stand/60004
+    21300608: Player/stand/60005
+    21300610: Player/stand/60006
+    21300612: Player/stand/70001
+    21300614: Player/stand/70002
+    21300616: Player/stand/70003
+    21300618: Player/stand/70004
+    21300620: Player/stand/70005
+    21300622: Player/stand/70006
+    21300624: Monster/stand/10007
+    21300626: Monster/stand/10008
+    21300628: Monster/stand/20007
+    21300630: Monster/stand/20008
+    21300632: Monster/stand/30007
+    21300634: Monster/stand/30008
+    21300636: Monster/stand/50007
+    21300638: Monster/stand/50008
+    21300640: Monster/stand/60007
+    21300642: Monster/stand/60008
+    21300644: Monster/stand/70007
+    21300646: Monster/stand/70008
+    21300648: Player/stand/00007
+    21300650: Player/stand/00008
+    21300652: Player/stand/10007
+    21300654: Player/stand/10008
+    21300656: Player/stand/20007
+    21300658: Player/stand/20008
+    21300660: Player/stand/30007
+    21300662: Player/stand/30008
+    21300664: Player/stand/50007
+    21300666: Player/stand/50008
+    21300668: Player/stand/60007
+    21300670: Player/stand/60008
+    21300672: Player/stand/70007
+    21300674: Player/stand/70008
+    21300676: shadow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster/atk/10001
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1376
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10002
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1238
+        width: 82
+        height: 78
+      alignment: 9
+      pivot: {x: 0.24390244, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10003
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1074
+        width: 76
+        height: 80
+      alignment: 9
+      pivot: {x: 0.2236842, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 56
+        height: 80
+      alignment: 9
+      pivot: {x: 0.23214285, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10005
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1480
+        width: 86
+        height: 88
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1863
+        width: 110
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6909091, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10007
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1530
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3488372, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 613
+        width: 68
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20001
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1390
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.17391305, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20002
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1182
+        width: 78
+        height: 80
+      alignment: 9
+      pivot: {x: 0.17948718, y: 0.1625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20003
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 664
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.24193548, y: 0.15853658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20004
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 580
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20005
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1852
+        width: 106
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6981132, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1751
+        width: 108
+        height: 110
+      alignment: 9
+      pivot: {x: 0.712963, y: 0.10909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20007
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1900
+        width: 112
+        height: 80
+      alignment: 9
+      pivot: {x: 0.16964285, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/20008
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1452
+        width: 86
+        height: 76
+      alignment: 9
+      pivot: {x: 0.22093023, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30001
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1234
+        width: 82
+        height: 88
+      alignment: 9
+      pivot: {x: 0.29268292, y: 0.29545453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30002
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 428
+        width: 62
+        height: 74
+      alignment: 9
+      pivot: {x: 0.37096775, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30003
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 738
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43939394, y: 0.12162162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30004
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1512
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.65555555, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30005
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1376
+        width: 84
+        height: 122
+      alignment: 9
+      pivot: {x: 0.6785714, y: 0.040983606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30006
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1058
+        width: 74
+        height: 122
+      alignment: 9
+      pivot: {x: 0.6216216, y: 0.04918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30007
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1700
+        width: 104
+        height: 86
+      alignment: 9
+      pivot: {x: 0.22115384, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/30008
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1768
+        width: 96
+        height: 78
+      alignment: 9
+      pivot: {x: 0.25, y: 0.24358974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50001
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1290
+        width: 82
+        height: 88
+      alignment: 9
+      pivot: {x: 0.73170733, y: 0.29545453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50002
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 428
+        width: 62
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6451613, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50003
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 750
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.12162162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50004
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1590
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50005
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1388
+        width: 84
+        height: 122
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.040983606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50006
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1058
+        width: 74
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.04918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50007
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1722
+        width: 104
+        height: 86
+      alignment: 9
+      pivot: {x: 0.78846157, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/50008
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1672
+        width: 94
+        height: 78
+      alignment: 9
+      pivot: {x: 0.7659575, y: 0.24358974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60001
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1408
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.82608694, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60002
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1118
+        width: 78
+        height: 80
+      alignment: 9
+      pivot: {x: 0.82051283, y: 0.1625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60003
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 474
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.7580645, y: 0.15853658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60004
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 638
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60005
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1936
+        width: 106
+        height: 110
+      alignment: 9
+      pivot: {x: 0.31132075, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60006
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1788
+        width: 108
+        height: 110
+      alignment: 9
+      pivot: {x: 0.28703704, y: 0.10909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60007
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1966
+        width: 112
+        height: 80
+      alignment: 9
+      pivot: {x: 0.83928573, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/60008
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1512
+        width: 86
+        height: 76
+      alignment: 9
+      pivot: {x: 0.7906977, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70001
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1402
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.63095236, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70002
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1296
+        width: 82
+        height: 78
+      alignment: 9
+      pivot: {x: 0.75609756, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70003
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1132
+        width: 76
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7763158, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70004
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1182
+        width: 56
+        height: 80
+      alignment: 9
+      pivot: {x: 0.76785713, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70005
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 86
+        height: 88
+      alignment: 9
+      pivot: {x: 0.37209302, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70006
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1894
+        width: 110
+        height: 86
+      alignment: 9
+      pivot: {x: 0.3090909, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1253
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6627907, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/atk/70008
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 660
+        width: 68
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10001
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 648
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 533
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10003
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 558
+        width: 62
+        height: 88
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0.17045455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10004
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 362
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10005
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 292
+        width: 60
+        height: 68
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.04411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10006
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 324
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06944445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10007
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 508
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/10008
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 60
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.12857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20001
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 206
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.12162162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20002
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 802
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20003
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 960
+        width: 74
+        height: 78
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20004
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 814
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20005
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 186
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.042857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20006
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 354
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20007
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 826
+        width: 70
+        height: 72
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/20008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.65, y: 0.18421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30001
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1468
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.114285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30002
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 428
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30003
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 980
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30004
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 668
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.04411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30005
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1744
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 461
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30007
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 678
+        width: 64
+        height: 72
+      alignment: 9
+      pivot: {x: 0.609375, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/30008
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 438
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50001
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1540
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.114285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50002
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 418
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6166667, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50003
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 980
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50004
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 680
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.04411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50005
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1810
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50006
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 508
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50007
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 752
+        width: 64
+        height: 72
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/50008
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 484
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60001
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 270
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6, y: 0.12162162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60002
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 832
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60003
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 994
+        width: 74
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60004
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 826
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60005
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 252
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.67241377, y: 0.042857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60006
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 428
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60007
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 828
+        width: 70
+        height: 72
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/60008
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.35, y: 0.18421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70001
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 678
+        width: 66
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70002
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 580
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70003
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 588
+        width: 62
+        height: 88
+      alignment: 9
+      pivot: {x: 0.43548387, y: 0.17045455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70004
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 362
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70005
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 358
+        width: 60
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6, y: 0.04411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6166667, y: 0.06944445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70007
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 350
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/run/70008
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 258
+        width: 60
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.12857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10001
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 890
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10002
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 662
+        width: 68
+        height: 76
+      alignment: 9
+      pivot: {x: 0.38235295, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10003
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 902
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 691
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10005
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 882
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4027778, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10006
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 980
+        width: 72
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4027778, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10007
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 886
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/10008
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 898
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20001
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 582
+        width: 62
+        height: 80
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20002
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 408
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20003
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 422
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20004
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 436
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20005
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 572
+        width: 62
+        height: 80
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20006
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 504
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20007
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 584
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/20008
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 424
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0.31666666, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30001
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 346
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30002
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 330
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30003
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 280
+        width: 58
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30004
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 206
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.58928573, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30005
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 216
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.58928573, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30006
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 286
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.58928573, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30007
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 574
+        width: 58
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/30008
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 406
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50002
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50003
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 398
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50004
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 284
+        width: 58
+        height: 72
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50005
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 210
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4107143, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50006
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 122
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4107143, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50007
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4107143, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/50008
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 652
+        width: 58
+        height: 76
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60001
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 596
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0.68333334, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60003
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 648
+        width: 62
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60004
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 436
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60005
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 414
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6935484, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60006
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 488
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60007
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 596
+        width: 62
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/60008
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 554
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70001
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 738
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70002
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 740
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70003
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 958
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4027778, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 931
+        width: 72
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4027778, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70005
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 900
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 769
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70007
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 798
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster/stand/70008
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 720
+        width: 68
+        height: 76
+      alignment: 9
+      pivot: {x: 0.38235295, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/10001
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 876
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/10002
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1036
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/20001
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 912
+        width: 72
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/20002
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1928
+        width: 102
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6372549, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/30001
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 966
+        width: 72
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/30002
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1982
+        width: 118
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7033898, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/50001
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 980
+        width: 72
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/50002
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1982
+        width: 118
+        height: 64
+      alignment: 9
+      pivot: {x: 0.69491524, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/60001
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 894
+        width: 72
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/60002
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1988
+        width: 102
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6372549, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/70001
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 896
+        width: 70
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/die/70002
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1040
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10001
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1470
+        width: 94
+        height: 82
+      alignment: 9
+      pivot: {x: 0.38297874, y: 0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10002
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1676
+        width: 94
+        height: 86
+      alignment: 9
+      pivot: {x: 0.41489363, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10003
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1700
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10004
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1644
+        width: 104
+        height: 76
+      alignment: 9
+      pivot: {x: 0.45192307, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10005
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1964
+        width: 108
+        height: 82
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.1097561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10006
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1794
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3490566, y: 0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10007
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1880
+        width: 108
+        height: 84
+      alignment: 9
+      pivot: {x: 0.39814815, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/10008
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1790
+        width: 104
+        height: 84
+      alignment: 9
+      pivot: {x: 0.40384614, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20001
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1134
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20002
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1058
+        width: 78
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20003
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1306
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6511628, y: 0.18292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20004
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1284
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5952381, y: 0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20005
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1264
+        width: 84
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20006
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1464
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.08974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1591
+        width: 102
+        height: 72
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/20008
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1554
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30001
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 582
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.0945946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30002
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 816
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.55714285, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30003
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1156
+        width: 78
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30004
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 898
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.2125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30005
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1384
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0.55, y: 0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30006
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 722
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30007
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 978
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6081081, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/30008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1095
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.625, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50001
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 658
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3939394, y: 0.0945946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50002
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 818
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.44285715, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50003
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1214
+        width: 78
+        height: 80
+      alignment: 9
+      pivot: {x: 0.44871795, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 849
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.2125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50005
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1660
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50006
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 752
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50007
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 968
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/50008
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1148
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3875, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60001
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1572
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.52, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60002
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1206
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60003
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1130
+        width: 78
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60004
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1324
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3604651, y: 0.18292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60005
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1344
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60006
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1308
+        width: 84
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60007
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1538
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.08974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/60008
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1626
+        width: 102
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5686275, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1665
+        width: 104
+        height: 84
+      alignment: 9
+      pivot: {x: 0.59615386, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70002
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1488
+        width: 94
+        height: 82
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70003
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1680
+        width: 94
+        height: 86
+      alignment: 9
+      pivot: {x: 0.59574467, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1423
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70005
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1716
+        width: 104
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70006
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1810
+        width: 108
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6388889, y: 0.1097561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70007
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1876
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6509434, y: 0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/run/70008
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1962
+        width: 108
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00001
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1060
+        width: 78
+        height: 86
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00002
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1296
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00003
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1042
+        width: 74
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00004
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1052
+        width: 74
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00005
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1570
+        width: 76
+        height: 88
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.2159091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00006
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1114
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00007
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1200
+        width: 80
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/00008
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1060
+        width: 78
+        height: 88
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.2159091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10001
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1842
+        width: 96
+        height: 84
+      alignment: 9
+      pivot: {x: 0.38541666, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10002
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1630
+        width: 100
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10003
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1764
+        width: 100
+        height: 86
+      alignment: 9
+      pivot: {x: 0.41, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10004
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1872
+        width: 98
+        height: 86
+      alignment: 9
+      pivot: {x: 0.39795917, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10005
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1752
+        width: 94
+        height: 88
+      alignment: 9
+      pivot: {x: 0.38297874, y: 0.20454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10006
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1612
+        width: 90
+        height: 86
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10007
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1590
+        width: 92
+        height: 84
+      alignment: 9
+      pivot: {x: 0.38043478, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/10008
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1544
+        width: 94
+        height: 84
+      alignment: 9
+      pivot: {x: 0.38297874, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20001
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1292
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20002
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1380
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20003
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1368
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20004
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1318
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20005
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1150
+        width: 80
+        height: 82
+      alignment: 9
+      pivot: {x: 0.475, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20006
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1140
+        width: 76
+        height: 82
+      alignment: 9
+      pivot: {x: 0.46052632, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20007
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1048
+        width: 74
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/20008
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1224
+        width: 78
+        height: 82
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30001
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 502
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30002
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 516
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30003
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 654
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30004
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 734
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30005
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 730
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30006
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 734
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30007
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 504
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/30008
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 516
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.61290324, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50001
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 492
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.38709676, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50002
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 502
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50003
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 494
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50004
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 814
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50005
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 748
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50006
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 810
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50007
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 814
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/50008
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 568
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60001
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1206
+        width: 80
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5375, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60002
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1212
+        width: 76
+        height: 82
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60003
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 974
+        width: 74
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1011
+        width: 78
+        height: 82
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1169
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60006
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1454
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60007
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1428
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/60008
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1222
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70001
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1618
+        width: 94
+        height: 84
+      alignment: 9
+      pivot: {x: 0.62765956, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1505
+        width: 96
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6145833, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70003
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1704
+        width: 100
+        height: 84
+      alignment: 9
+      pivot: {x: 0.61, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70004
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1848
+        width: 100
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70005
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1960
+        width: 98
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6020408, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70006
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1782
+        width: 94
+        height: 88
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.20454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1335
+        width: 90
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player/stand/70008
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1594
+        width: 92
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6304348, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shadow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1951
+        width: 133
+        height: 95
+      alignment: 9
+      pivot: {x: 0.37218046, y: 0.35263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: d54f6df943429154093cf537713138e3
+timeCreated: 1547177250
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BGGameHelp
+    21300002: BGGamePuause2
+    21300004: BGPause
+    21300006: BGShopCoin
+    21300008: BGStartGame
+    21300010: BGVictory
+    21300012: BuyError
+    21300014: BuySucess
+    21300016: Coin
+    21300018: CoinBG
+    21300020: GameHelp
+    21300022: Hp
+    21300024: Pause
+    21300026: Score
+    21300028: ShopCoin
+    21300030: Title
+    21300032: Victory
+    21300034: bgShop
+    21300036: btnAgain
+    21300038: btnBuy
+    21300040: btnContinue
+    21300042: btnEnterGame
+    21300044: btnHlep
+    21300046: btnMusic
+    21300048: btnPause
+    21300050: btnReturn
+    21300052: btnReturnMenu
+    21300054: btnShop
+    21300056: buy
+    21300058: shop
+    21300060: Player1BG
+    21300062: Player2BG
+    21300064: Player3BG
+    21300066: PlayerSelectedBG
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BGGameHelp
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1290
+        width: 614
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BGGamePuause2
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1629
+        width: 418
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BGPause
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1523
+        width: 609
+        height: 523
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 192, y: 211, z: 150, w: 179}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BGShopCoin
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1493
+        width: 175
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BGStartGame
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1896
+        width: 640
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BGVictory
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 640
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51627487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BuyError
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1574
+        width: 411
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BuySucess
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1435
+        width: 239
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1260
+        width: 100
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CoinBG
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1417
+        width: 302
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GameHelp
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1352
+        width: 218
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hp
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1260
+        width: 65
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 261
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player1BG
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1285
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player2BG
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1331
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player3BG
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1483
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PlayerSelectedBG
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1635
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Score
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1520
+        width: 320
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ShopCoin
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1390
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Title
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1735
+        width: 502
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Victory
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 391
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bgShop
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 633
+        width: 614
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnAgain
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1787
+        width: 105
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnBuy
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1437
+        width: 164
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnContinue
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1460
+        width: 105
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnEnterGame
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1742
+        width: 130
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnHlep
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1256
+        width: 81
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnMusic
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1321
+        width: 81
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnPause
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1543
+        width: 81
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnReturn
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1639
+        width: 81
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnReturnMenu
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1569
+        width: 105
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnShop
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1895
+        width: 130
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buy
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1220
+        width: 70
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shop
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1678
+        width: 115
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

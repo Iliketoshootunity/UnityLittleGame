@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: a232deb6f96969d4f8ce5260aafa7378
+timeCreated: 1549958231
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemySpawnEffect1
+    21300002: EnemySpawnEffect2
+    21300004: EnemySpawnEffect3
+    21300006: EnemySpawnEffect4
+    21300008: EnemySpawnEffect5
+    21300010: EnemySpawnEffect6
+    21300012: RoleEffect/Effect1/00001
+    21300014: RoleEffect/Effect1/00002
+    21300016: RoleEffect/Effect1/00003
+    21300018: RoleEffect/Effect1/00004
+    21300020: RoleEffect/Effect1/00005
+    21300022: RoleEffect/Effect1/00006
+    21300024: RoleEffect/Effect1/00007
+    21300026: RoleEffect/Effect1/00008
+    21300028: RoleEffect/Effect1/00009
+    21300030: RoleEffect/Effect1/00010
+    21300032: RoleEffect/Effect1/00011
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemySpawnEffect1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 748
+        width: 284
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5140845, y: 0.52554744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: EnemySpawnEffect2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 750
+        width: 266
+        height: 272
+      alignment: 9
+      pivot: {x: 0.48872182, y: 0.44485295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: EnemySpawnEffect3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 278
+        height: 254
+      alignment: 9
+      pivot: {x: 0.51079136, y: 0.48818898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: EnemySpawnEffect4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 526
+        width: 244
+        height: 240
+      alignment: 9
+      pivot: {x: 0.44262296, y: 0.49583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: EnemySpawnEffect5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 238
+        height: 214
+      alignment: 9
+      pivot: {x: 0.42016807, y: 0.4813084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: EnemySpawnEffect6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 826
+        width: 176
+        height: 196
+      alignment: 9
+      pivot: {x: 0.6136364, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00001
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 492
+        width: 72
+        height: 164
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00002
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 356
+        width: 90
+        height: 174
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.52873564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00003
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 642
+        width: 104
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.489011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 340
+        width: 98
+        height: 190
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00005
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 350
+        width: 90
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 84
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5056818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00007
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 658
+        width: 78
+        height: 166
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.4759036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 72
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00009
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 52
+        height: 120
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00010
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 644
+        width: 40
+        height: 102
+      alignment: 9
+      pivot: {x: 0.375, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RoleEffect/Effect1/00011
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 964
+        width: 2
+        height: 58
+      alignment: 9
+      pivot: {x: -8, y: 0.15517241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: ae9942ee05ba1df4cad5904995f8d49b
+timeCreated: 1553310817
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fail
+    21300002: LevelLock
+    21300004: LevelUnLock
+    21300006: Pause
+    21300008: Title
+    21300010: Window
+    21300012: btnContinue
+    21300014: btnMusicOff
+    21300016: btnMusicOn
+    21300018: btnRestart
+    21300020: btnReturn
+    21300022: btnStartGame
+    21300024: CurLevel
+    21300026: btnPause
+    21300028: Dir
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CurLevel
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 490
+        width: 276
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dir
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 424
+        width: 52
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fail
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 563
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LevelLock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 130
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LevelUnLock
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 424
+        width: 130
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 94
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Title
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 881
+        width: 500
+        height: 141
+      alignment: 9
+      pivot: {x: 0.522, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Window
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 613
+        width: 470
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnContinue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnMusicOff
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 323
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnMusicOn
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnPause
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 288
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnRestart
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 323
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnReturn
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 389
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnStartGame
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 536
+        width: 290
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

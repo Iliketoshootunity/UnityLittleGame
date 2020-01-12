@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 74d39b8283de9c040ab945611c41e06f
+timeCreated: 1555330685
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skill_TainGou/00000
+    21300002: Skill_TainGou/00001
+    21300004: Skill_TainGou/00002
+    21300006: Skill_TainGou/00003
+    21300008: Skill_TainGou/00004
+    21300010: Skill_TainGou/00005
+    21300012: Skill_TainGou/00006
+    21300014: Skill_TainGou/00007
+    21300016: Skill_TainGou/00008
+    21300018: Skill_TainGou/00009
+    21300020: Skill_TainGou/00010
+    21300022: Skill_TainGou/00011
+    21300024: Skill_TainGou/00012
+    21300026: Skill_TainGou/00013
+    21300028: Skill_TainGou/00014
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill_TainGou/00000
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 942
+        width: 192
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5052083, y: 0.7907801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00001
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1700
+        width: 350
+        height: 346
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.63583815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00002
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1662
+        width: 398
+        height: 384
+      alignment: 9
+      pivot: {x: 0.48241207, y: 0.6770833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00003
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 210
+        width: 422
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5094787, y: 0.65656567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00004
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 152
+        width: 400
+        height: 404
+      alignment: 9
+      pivot: {x: 0.49, y: 0.6509901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00005
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 608
+        width: 388
+        height: 400
+      alignment: 9
+      pivot: {x: 0.4716495, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00006
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1226
+        width: 382
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5052356, y: 0.65656567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00007
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1624
+        width: 362
+        height: 422
+      alignment: 9
+      pivot: {x: 0.48066297, y: 0.6161137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00008
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 558
+        width: 382
+        height: 450
+      alignment: 9
+      pivot: {x: 0.45549738, y: 0.5777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 382
+        height: 478
+      alignment: 9
+      pivot: {x: 0.45549738, y: 0.54393303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00010
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1010
+        width: 392
+        height: 504
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.515873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 992
+        width: 378
+        height: 522
+      alignment: 9
+      pivot: {x: 0.44973546, y: 0.49808428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 378
+        height: 508
+      alignment: 9
+      pivot: {x: 0.44973546, y: 0.511811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1516
+        width: 400
+        height: 530
+      alignment: 9
+      pivot: {x: 0.48, y: 0.49056605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skill_TainGou/00014
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1610
+        width: 342
+        height: 436
+      alignment: 9
+      pivot: {x: 0.48245615, y: 0.5206422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

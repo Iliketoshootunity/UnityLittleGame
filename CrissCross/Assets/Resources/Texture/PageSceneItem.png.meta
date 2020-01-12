@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 65e5bbaf399fd3e4ca48a2501f4d6f87
+timeCreated: 1550123121
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BG
+    21300002: Caodi
+    21300004: Item01
+    21300006: Item02
+    21300008: Item03
+    21300010: Item04
+    21300012: Item05
+    21300014: Item06
+    21300016: Item07
+    21300018: Item08
+    21300020: Key/00000
+    21300022: Key/00001
+    21300024: Key/00002
+    21300026: Key/00003
+    21300028: Key/00004
+    21300030: Key/00005
+    21300032: Line
+    21300034: Prop01/00000
+    21300036: Prop01/00001
+    21300038: Prop01/00002
+    21300040: Prop01/00003
+    21300042: Prop01/00004
+    21300044: Prop01/00005
+    21300046: Prop01/00006
+    21300048: Prop01/00007
+    21300050: Prop02/00000
+    21300052: Prop02/00001
+    21300054: Prop02/00002
+    21300056: Prop02/00003
+    21300058: Prop02/00004
+    21300060: Prop02/00005
+    21300062: Prop02/00006
+    21300064: Prop02/00007
+    21300066: GateWay/00000
+    21300068: GateWay/00001
+    21300070: GateWay/00002
+    21300072: GateWay/00003
+    21300074: GateWay/00004
+    21300076: GateWay/00005
+    21300078: GateWay/00006
+    21300080: GateWay/00007
+    21300082: GateWay/00008
+    21300084: GateWay/00009
+    21300086: GateWay/00010
+    21300088: GateWay/00011
+    21300090: GateWay/00012
+    21300092: GateWay/00013
+    21300094: GateWay/00014
+    21300096: GateWay/00015
+    21300098: Item09
+    21300100: Item10
+    21300102: Number/0
+    21300104: Number/1
+    21300106: Number/2
+    21300108: Number/3
+    21300110: Number/4
+    21300112: Number/5
+    21300114: Number/6
+    21300116: Number/7
+    21300118: Number/8
+    21300120: Number/9
+    21300122: Shadow
+    21300124: Item11
+    21300126: FillBG
+    21300128: GateWay/Bottom/0000
+    21300130: GateWay/Bottom/0001
+    21300132: GateWay/Bottom/0002
+    21300134: GateWay/Bottom/0003
+    21300136: GateWay/Bottom/0004
+    21300138: GateWay/Bottom/0005
+    21300140: GateWay/Bottom/0006
+    21300142: GateWay/Bottom/0007
+    21300144: GateWay/Light/guangshu_0000
+    21300146: GateWay/Light/guangshu_0001
+    21300148: GateWay/Light/guangshu_0002
+    21300150: GateWay/Light/guangshu_0003
+    21300152: GateWay/Light/guangshu_0004
+    21300154: GateWay/Light/guangshu_0005
+    21300156: GateWay/Light/guangshu_0006
+    21300158: GateWay/Light/guangshu_0007
+    21300160: GateWay/Light/guangshu_0008
+    21300162: GateWay/Light/guangshu_0009
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caodi
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 808
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FillBG
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 880
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0000
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 312
+        width: 115
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0001
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 108
+        width: 127
+        height: 94
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0002
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 60
+        width: 127
+        height: 102
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0003
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 204
+        width: 127
+        height: 106
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0004
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 127
+        height: 116
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0005
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 412
+        width: 123
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5081301, y: 0.41346154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0006
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 518
+        width: 119
+        height: 98
+      alignment: 9
+      pivot: {x: 0.50840336, y: 0.41836736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Bottom/0007
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 117
+        height: 94
+      alignment: 9
+      pivot: {x: 0.508547, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0000
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 830
+        width: 103
+        height: 192
+      alignment: 9
+      pivot: {x: 0.51941746, y: 0.47395834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0001
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 820
+        width: 105
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 822
+        width: 107
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5373832, y: 0.495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 622
+        width: 103
+        height: 198
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.48989898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0004
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 830
+        width: 103
+        height: 192
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.47395834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0005
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 618
+        width: 103
+        height: 188
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.46276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0006
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 452
+        width: 103
+        height: 186
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.45698926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0007
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 444
+        width: 103
+        height: 184
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.45108697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0008
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 630
+        width: 105
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5190476, y: 0.46276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay/Light/guangshu_0009
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 640
+        width: 105
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5190476, y: 0.46276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item01
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 614
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 380
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item03
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 686
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item04
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 372
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item05
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 758
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 554
+        width: 70
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item08
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item09
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 488
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 952
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Key/00000
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 338
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Key/00001
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 282
+        width: 34
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Key/00002
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 212
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Key/00003
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 410
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: -0.2236842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Key/00004
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 338
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: -0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Key/00005
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 316
+        width: 36
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: -0.016129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Line
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 305
+        width: 50
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 318
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 67
+        width: 38
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 121
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 158
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 177
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 262
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Number/9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 233
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00000
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.515873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00001
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00002
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 322
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00004
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00005
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 314
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 293
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop01/00007
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 379
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00000
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 354
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.515873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00001
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 387
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00002
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 419
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00003
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 484
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00004
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 354
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00005
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 549
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 358
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Prop02/00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 423
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Shadow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 131
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

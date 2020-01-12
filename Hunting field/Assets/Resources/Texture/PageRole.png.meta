@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: de8ddd9261e31e846acf9c2b159c4d53
+timeCreated: 1552025524
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle/Back/01
+    21300002: Idle/Back/02
+    21300004: Idle/Back/03
+    21300006: Idle/Forward/02
+    21300008: Idle/Forward/03
+    21300010: Idle/Left/01
+    21300012: Idle/Left/02
+    21300014: Idle/Left/03
+    21300016: Idle/Right/01
+    21300018: Idle/Right/02
+    21300020: Idle/Right/03
+    21300022: Sleep/Back/01
+    21300024: Sleep/Back/02
+    21300026: Sleep/Back/03
+    21300028: Sleep/Forward/01
+    21300030: Sleep/Forward/02
+    21300032: Sleep/Forward/03
+    21300034: Sleep/Left/01
+    21300036: Sleep/Left/02
+    21300038: Sleep/Left/03
+    21300040: Sleep/Right/01
+    21300042: Sleep/Right/02
+    21300044: Sleep/Right/03
+    21300046: Walk/Back/01
+    21300048: Walk/Back/02
+    21300050: Walk/Back/03
+    21300052: Walk/Back/04
+    21300054: Walk/Forward/01
+    21300056: Walk/Forward/03
+    21300058: Walk/Forward/04
+    21300060: Walk/Left/01
+    21300062: Walk/Left/02
+    21300064: Walk/Left/03
+    21300066: Walk/Left/04
+    21300068: Walk/Right/01
+    21300070: Walk/Right/02
+    21300072: Walk/Right/03
+    21300074: Walk/Right/04
+    21300076: Idle/Forward/01
+    21300078: Walk/Forward/02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle/Back/01
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 720
+        width: 138
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Back/02
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 568
+        width: 138
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Back/03
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 416
+        width: 136
+        height: 150
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Forward/01
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 736
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Forward/02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 122
+        height: 148
+      alignment: 9
+      pivot: {x: 0.55737704, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Forward/03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 266
+        width: 124
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5645161, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Left/01
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 128
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.671875, y: 0.5068493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Left/02
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 276
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.671875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Left/03
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 424
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.671875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Right/01
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 572
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.3203125, y: 0.5068493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Right/02
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 120
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.328125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Idle/Right/03
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 268
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.328125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Back/01
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 342
+        width: 116
+        height: 130
+      alignment: 9
+      pivot: {x: 0.43965518, y: 0.5538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Back/02
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 474
+        width: 116
+        height: 130
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0.5538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Back/03
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 886
+        width: 116
+        height: 136
+      alignment: 9
+      pivot: {x: 0.43965518, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Forward/01
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 448
+        width: 116
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5689655, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Forward/02
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 594
+        width: 116
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5689655, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Forward/03
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 116
+        width: 116
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5689655, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Left/01
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 886
+        width: 120
+        height: 136
+      alignment: 9
+      pivot: {x: 0.78333336, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Left/02
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 744
+        width: 130
+        height: 136
+      alignment: 9
+      pivot: {x: 0.72307694, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Left/03
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 882
+        width: 142
+        height: 140
+      alignment: 9
+      pivot: {x: 0.6619718, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Right/01
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 318
+        width: 128
+        height: 136
+      alignment: 9
+      pivot: {x: 0.3515625, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Right/02
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 456
+        width: 128
+        height: 136
+      alignment: 9
+      pivot: {x: 0.3515625, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sleep/Right/03
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 606
+        width: 128
+        height: 136
+      alignment: 9
+      pivot: {x: 0.3515625, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Back/01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 568
+        width: 134
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4402985, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Back/02
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 416
+        width: 136
+        height: 150
+      alignment: 9
+      pivot: {x: 0.44852942, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Back/03
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 872
+        width: 136
+        height: 150
+      alignment: 9
+      pivot: {x: 0.43382353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Back/04
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 720
+        width: 120
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Forward/01
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 720
+        width: 130
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5307692, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Forward/02
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 872
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.515873, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Forward/03
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 872
+        width: 122
+        height: 150
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Forward/04
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 740
+        width: 116
+        height: 144
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Left/01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 112
+        width: 140
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6785714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Left/02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 720
+        width: 146
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6849315, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Left/03
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 264
+        width: 140
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6785714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Left/04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 144
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Right/01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 142
+        height: 150
+      alignment: 9
+      pivot: {x: 0.34507042, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Right/02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 568
+        width: 144
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3472222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Right/03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 264
+        width: 142
+        height: 150
+      alignment: 9
+      pivot: {x: 0.32394367, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Walk/Right/04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 872
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

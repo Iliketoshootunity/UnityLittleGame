@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<ArrayOfAutoGenerateResourceCacheInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AutoGenerateResourceCacheInfo>
+    <预设名>0320 Origin</预设名>
+    <平台>iOS</平台>
+    <资源目录>F:\U3DFiles\Root\Data\Trunk\CurrentUseData\Special\IOS\20180320_Origin\assets</资源目录>
+    <包内资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\SubResourceFilter_Ios1201_O.json</包内资源列表路径>
+    <First包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\FirstResourceFilter - 1201.json</First包资源列表路径>
+    <SpecialRes包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\SpecialResourceFilter.json</SpecialRes包资源列表路径>
+    <资源顺序列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\ResourceOrder.txt</资源顺序列表路径>
+    <独立资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\InpedendentResourceFilter_WithTable.json</独立资源列表路径>
+    <预下载资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\PreDownloadResourceFilter_1201.json</预下载资源列表路径>
+    <zip包后缀>1</zip包后缀>
+    <渠道名 />
+    <附加的资源目录 />
+    <导出目录 />
+  </AutoGenerateResourceCacheInfo>
+  <AutoGenerateResourceCacheInfo>
+    <预设名>0320 XianXia</预设名>
+    <平台>iOS</平台>
+    <资源目录>F:\U3DFiles\Root\Data\Trunk\CurrentUseData\Special\IOS\20180320_xianxia\assets</资源目录>
+    <包内资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_xianxia_Filters\SubResourceFilter_Ios1201_XX.json</包内资源列表路径>
+    <First包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_xianxia_Filters\FirstResourceFilter - 1201.json</First包资源列表路径>
+    <SpecialRes包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_xianxia_Filters\SpecialResourceFilter.json</SpecialRes包资源列表路径>
+    <资源顺序列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_xianxia_Filters\ResourceOrder.txt</资源顺序列表路径>
+    <独立资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_xianxia_Filters\InpedendentResourceFilter_WithTable.json</独立资源列表路径>
+    <预下载资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_xianxia_Filters\PreDownloadResourceFilter_1201.json</预下载资源列表路径>
+    <zip包后缀>0</zip包后缀>
+    <渠道名 />
+    <附加的资源目录 />
+    <导出目录 />
+  </AutoGenerateResourceCacheInfo>
+  <AutoGenerateResourceCacheInfo>
+    <预设名>0320 TW</预设名>
+    <平台>iOS</平台>
+    <资源目录>F:\U3DFiles\Root\Data\Trunk\CurrentUseData\Special\IOS\20180320_TW_ZJH\assets</资源目录>
+    <包内资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\SubResourceFilter_Ios1201_O.json</包内资源列表路径>
+    <First包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\FirstResourceFilter - 1201.json</First包资源列表路径>
+    <SpecialRes包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\SpecialResourceFilter.json</SpecialRes包资源列表路径>
+    <资源顺序列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\ResourceOrder.txt</资源顺序列表路径>
+    <独立资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\InpedendentResourceFilter_WithTable.json</独立资源列表路径>
+    <预下载资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0320_origin_Filters\PreDownloadResourceFilter_1201.json</预下载资源列表路径>
+    <zip包后缀>1</zip包后缀>
+    <渠道名 />
+    <附加的资源目录 />
+    <导出目录 />
+  </AutoGenerateResourceCacheInfo>
+  <AutoGenerateResourceCacheInfo>
+    <预设名>0630 Origin</预设名>
+    <平台>iOS</平台>
+    <资源目录>F:\U3DFiles\Root\Data\Trunk\CurrentUseData\Special\IOS\20180630_Origin\assets</资源目录>
+    <包内资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0630_origin_Filters\SubResourceFilter.json</包内资源列表路径>
+    <First包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0630_origin_Filters\FirstResourceFilter - 1201.json</First包资源列表路径>
+    <SpecialRes包资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0630_origin_Filters\SpecialResourceFilter.json</SpecialRes包资源列表路径>
+    <资源顺序列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0630_origin_Filters\ResourceOrder.txt</资源顺序列表路径>
+    <独立资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0630_origin_Filters\InpedendentResourceFilter_WithTable.json</独立资源列表路径>
+    <预下载资源列表路径>F:\U3DFiles\Root\Client\Branch\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios0630_origin_Filters\PreDownloadResourceFilter_1201.json</预下载资源列表路径>
+    <zip包后缀>1</zip包后缀>
+    <渠道名 />
+    <附加的资源目录 />
+    <导出目录 />
+  </AutoGenerateResourceCacheInfo>
+  <AutoGenerateResourceCacheInfo>
+    <预设名>1126</预设名>
+    <平台>iOS</平台>
+    <资源目录>F:\192.168.5.118UnityWorkSpace\Data\Trunk\CurrentUseData\Special\IOS\20181126_Origin\assets</资源目录>
+    <包内资源列表路径>C:\Users\Administrator\Desktop\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios1126_origin_Filters\SubResourceFilter.json</包内资源列表路径>
+    <First包资源列表路径>C:\Users\Administrator\Desktop\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios1126_origin_Filters\FirstResourceFilter - 1201.json</First包资源列表路径>
+    <SpecialRes包资源列表路径>C:\Users\Administrator\Desktop\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios1126_origin_Filters\SpecialResourceFilter.json</SpecialRes包资源列表路径>
+    <资源顺序列表路径>C:\Users\Administrator\Desktop\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios1126_origin_Filters\ResourceOrder.txt</资源顺序列表路径>
+    <独立资源列表路径>C:\Users\Administrator\Desktop\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios1126_origin_Filters\InpedendentResourceFilter_WithTable.json</独立资源列表路径>
+    <预下载资源列表路径>C:\Users\Administrator\Desktop\工具\ResourceTool\ResourceTool\ResourceTool\bin\Debug\Fixed\预设文件\ios1126_origin_Filters\PreDownloadResourceFilter_1201.json</预下载资源列表路径>
+    <zip包后缀 />
+    <渠道名 />
+    <附加的资源目录 />
+    <导出目录>C:\Users\Administrator\Desktop\出包\Test</导出目录>
+  </AutoGenerateResourceCacheInfo>
+</ArrayOfAutoGenerateResourceCacheInfo>

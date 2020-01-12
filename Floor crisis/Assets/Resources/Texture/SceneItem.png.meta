@@ -1,0 +1,1504 @@
+fileFormatVersion: 2
+guid: b6cf1c313ac0f1f4ea9b0baeb9bf7083
+timeCreated: 1547197499
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coin/1
+    21300002: Coin/10
+    21300004: Coin/2
+    21300006: Coin/3
+    21300008: Coin/4
+    21300010: Coin/5
+    21300012: Coin/6
+    21300014: Coin/7
+    21300016: Coin/8
+    21300018: Coin/9
+    21300020: Gunner/xfbs_0001
+    21300022: Gunner/xfbs_0002
+    21300024: Gunner/xfbs_0003
+    21300026: Gunner/xfbs_0004
+    21300028: Gunner/xfbs_0005
+    21300030: Gunner/xfbs_0006
+    21300032: Gunner/xfbs_0007
+    21300034: Gunner/xfbs_0008
+    21300036: Golgo/Walk_2_0000
+    21300038: Golgo/Walk_2_0001
+    21300040: Golgo/Walk_2_0002
+    21300042: Golgo/Walk_2_0003
+    21300044: Golgo/Walk_2_0004
+    21300046: Golgo/Walk_2_0005
+    21300048: Line/Line1
+    21300050: Line/Line2
+    21300052: Line/Line3
+    21300054: Line/Line4
+    21300056: Floor/AfterBreak_Cell
+    21300058: Floor/BG1
+    21300060: Floor/BG2
+    21300062: Floor/BG3
+    21300064: Floor/BG4
+    21300066: Floor/BG5
+    21300068: Floor/BeforeBreak_Cell
+    21300070: Floor/Bottom_Cell
+    21300072: Item/Bookcase
+    21300074: Item/Bottle
+    21300076: Item/Box
+    21300078: Item/Stool
+    21300080: LayerNumber/blue-1
+    21300082: LayerNumber/blue-10
+    21300084: LayerNumber/blue-2
+    21300086: LayerNumber/blue-3
+    21300088: LayerNumber/blue-4
+    21300090: LayerNumber/blue-5
+    21300092: LayerNumber/blue-6
+    21300094: LayerNumber/blue-7
+    21300096: LayerNumber/blue-8
+    21300098: LayerNumber/blue-9
+    21300100: LayerNumber/blue-layer
+    21300102: LayerNumber/cyan-1
+    21300104: LayerNumber/cyan-10
+    21300106: LayerNumber/cyan-2
+    21300108: LayerNumber/cyan-3
+    21300110: LayerNumber/cyan-4
+    21300112: LayerNumber/cyan-5
+    21300114: LayerNumber/cyan-6
+    21300116: LayerNumber/cyan-7
+    21300118: LayerNumber/cyan-8
+    21300120: LayerNumber/cyan-9
+    21300122: LayerNumber/cyan-layer
+    21300124: LayerNumber/green-1
+    21300126: LayerNumber/green-10
+    21300128: LayerNumber/green-2
+    21300130: LayerNumber/green-3
+    21300132: LayerNumber/green-4
+    21300134: LayerNumber/green-5
+    21300136: LayerNumber/green-6
+    21300138: LayerNumber/green-7
+    21300140: LayerNumber/green-8
+    21300142: LayerNumber/green-9
+    21300144: LayerNumber/green-layer
+    21300146: LayerNumber/red-1
+    21300148: LayerNumber/red-10
+    21300150: LayerNumber/red-2
+    21300152: LayerNumber/red-3
+    21300154: LayerNumber/red-4
+    21300156: LayerNumber/red-5
+    21300158: LayerNumber/red-6
+    21300160: LayerNumber/red-7
+    21300162: LayerNumber/red-8
+    21300164: LayerNumber/red-9
+    21300166: LayerNumber/red-layer
+    21300168: LayerNumber/white-1
+    21300170: LayerNumber/white-10
+    21300172: LayerNumber/white-2
+    21300174: LayerNumber/white-3
+    21300176: LayerNumber/white-4
+    21300178: LayerNumber/white-5
+    21300180: LayerNumber/white-6
+    21300182: LayerNumber/white-7
+    21300184: LayerNumber/white-8
+    21300186: LayerNumber/white-9
+    21300188: LayerNumber/white-layer
+    21300190: Floor/FloorBG
+    21300192: Fire
+    21300194: Warning/sl_0000
+    21300196: Warning/sl_0001
+    21300198: Warning/sl_0002
+    21300200: Warning/sl_0003
+    21300202: Warning/sl_0004
+    21300204: Warning/sl_0005
+    21300206: Warning/sl_0006
+    21300208: Warning/sl_0007
+    21300210: Item/Poison
+    21300212: Item/Spine
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin/1
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3346
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/10
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3242
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/2
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3294
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/3
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2988
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3836
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/5
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3732
+        width: 18
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/6
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3784
+        width: 4
+        height: 50
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/7
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3784
+        width: 18
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3888
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Coin/9
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3040
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2958
+        width: 1500
+        height: 1136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/AfterBreak_Cell
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3540
+        width: 51
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/BG1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1583
+        width: 852
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/BG2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1752
+        width: 852
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/BG3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1985
+        width: 852
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/BG4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2154
+        width: 852
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/BG5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2556
+        width: 852
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/BeforeBreak_Cell
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3592
+        width: 51
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/Bottom_Cell
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3398
+        width: 50
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Floor/FloorBG
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2387
+        width: 695
+        height: 509
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Golgo/Walk_2_0000
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2898
+        width: 78
+        height: 124
+      alignment: 9
+      pivot: {x: 0.44871795, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Golgo/Walk_2_0001
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 3848
+        width: 62
+        height: 120
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Golgo/Walk_2_0002
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2902
+        width: 76
+        height: 120
+      alignment: 9
+      pivot: {x: 0.43421054, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Golgo/Walk_2_0003
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3261
+        width: 80
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.58196723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Golgo/Walk_2_0004
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 3970
+        width: 64
+        height: 124
+      alignment: 9
+      pivot: {x: 0.328125, y: 0.6048387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Golgo/Walk_2_0005
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2864
+        width: 76
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0001
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 3660
+        width: 198
+        height: 330
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0002
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3706
+        width: 198
+        height: 232
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.19827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0003
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3204
+        width: 198
+        height: 226
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.17256637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0004
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3024
+        width: 198
+        height: 224
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.16964285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0005
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2980
+        width: 198
+        height: 222
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.15765765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0006
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3250
+        width: 198
+        height: 226
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.17256637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0007
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3432
+        width: 198
+        height: 226
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.17256637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gunner/xfbs_0008
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3478
+        width: 198
+        height: 226
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.17699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item/Bookcase
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3644
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item/Bottle
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2933
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item/Box
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3746
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item/Poison
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3015
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item/Spine
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3097
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item/Stool
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3179
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-1
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2743
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-10
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 2836
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-2
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2745
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.525, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-3
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2772
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-4
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3862
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-5
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2802
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-6
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2918
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2810
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-8
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3092
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-9
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2794
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.525, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/blue-layer
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3940
+        width: 237
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-1
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2904
+        width: 40
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-10
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2872
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-2
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2754
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-3
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2794
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-4
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3888
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-5
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2864
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2918
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-7
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2832
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-8
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3122
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-9
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2775
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/cyan-layer
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 3992
+        width: 237
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-1
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2759
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-10
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2908
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-2
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2762
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2920
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-4
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3914
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-5
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2904
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2918
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2832
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-8
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3152
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-9
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2950
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/green-layer
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3992
+        width: 237
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2904
+        width: 40
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-10
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2944
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-2
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2768
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-3
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 2775
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-4
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3940
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-5
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2944
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2918
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-7
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2813
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-8
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3182
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2784
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/red-layer
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 4044
+        width: 237
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2904
+        width: 40
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-10
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2914
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-2
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2772
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-3
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2792
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-4
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3966
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-5
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2984
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-6
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2822
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2830
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-8
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3212
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-9
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2798
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LayerNumber/white-layer
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 4044
+        width: 237
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0000
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2842
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5163934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0001
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2845
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0002
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2862
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51449275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0003
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2905
+        width: 74
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51369864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0004
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2823
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4868421, y: 0.512987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0005
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3385
+        width: 82
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5123457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0006
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3468
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.5117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Warning/sl_0007
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3555
+        width: 88
+        height: 87
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.5114943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+package TABLE;
+
+message RESLISTINAPK
+{
+	required uint32 id = 1;
+	required string path = 2;
+}
+
+message RESLISTINAPKARRAY
+{
+	repeated RESLISTINAPK rows =1;
+}

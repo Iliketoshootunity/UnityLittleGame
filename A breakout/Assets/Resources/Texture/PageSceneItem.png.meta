@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: fb7e22b9ea2a0cf4caecee02d209f808
+timeCreated: 1553310812
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BG
+    21300002: GateWay
+    21300004: Hex-1
+    21300006: Hex-2
+    21300008: Hex-3
+    21300010: Obstacle1
+    21300012: Obstacle2
+    21300014: Obstacle3
+    21300016: Obstacle4
+    21300018: Obstacle5
+    21300020: Hex-4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 683
+        width: 1022
+        height: 1363
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GateWay
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 69
+        height: 83
+      alignment: 9
+      pivot: {x: 0.51449275, y: 0.52409637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hex-1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 579
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hex-2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 631
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hex-3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 538
+        width: 88
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hex-4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 631
+        width: 86
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Obstacle1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 61
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5491803, y: 0.48989898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Obstacle2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 416
+        width: 117
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Obstacle3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 487
+        width: 71
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5140845, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Obstacle4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 71
+        height: 79
+      alignment: 9
+      pivot: {x: 0.42957747, y: 0.664557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Obstacle5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 590
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: 0.45402297, y: 0.6098901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

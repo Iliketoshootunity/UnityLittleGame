@@ -1,0 +1,1766 @@
+fileFormatVersion: 2
+guid: a7f128206430cb941a76b67f0ab44ebf
+timeCreated: 1547258830
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Showstand/Showstand_4_0000
+    21300002: Showstand/Showstand_4_0001
+    21300004: Showstand/Showstand_4_0002
+    21300006: Showstand/Showstand_4_0003
+    21300008: Showstand/Showstand_4_0004
+    21300010: Showstand/Showstand_4_0005
+    21300012: attack2/attack2_0_0000
+    21300014: attack2/attack2_0_0001
+    21300016: attack2/attack2_0_0002
+    21300018: attack2/attack2_0_0003
+    21300020: attack2/attack2_0_0004
+    21300022: attack2/attack2_0_0005
+    21300024: attack2/attack2_0_0006
+    21300026: attack2/attack2_0_0007
+    21300028: attack2/attack2_1_0000
+    21300030: attack2/attack2_1_0001
+    21300032: attack2/attack2_1_0002
+    21300034: attack2/attack2_1_0003
+    21300036: attack2/attack2_1_0004
+    21300038: attack2/attack2_1_0005
+    21300040: attack2/attack2_1_0006
+    21300042: attack2/attack2_1_0007
+    21300044: attack2/attack2_4_0000
+    21300046: attack2/attack2_4_0001
+    21300048: attack2/attack2_4_0002
+    21300050: attack2/attack2_4_0003
+    21300052: attack2/attack2_4_0004
+    21300054: attack2/attack2_4_0005
+    21300056: attack2/attack2_4_0006
+    21300058: attack2/attack2_4_0007
+    21300060: attack2/attack2_6_0000
+    21300062: attack2/attack2_6_0001
+    21300064: attack2/attack2_6_0002
+    21300066: attack2/attack2_6_0003
+    21300068: attack2/attack2_6_0004
+    21300070: attack2/attack2_6_0005
+    21300072: attack2/attack2_6_0006
+    21300074: attack2/attack2_6_0007
+    21300076: run/run_0_0000
+    21300078: run/run_0_0001
+    21300080: run/run_0_0002
+    21300082: run/run_0_0003
+    21300084: run/run_0_0004
+    21300086: run/run_0_0005
+    21300088: run/run_0_0006
+    21300090: run/run_0_0007
+    21300092: run/run_0_0008
+    21300094: run/run_0_0009
+    21300096: run/run_0_0010
+    21300098: run/run_0_0011
+    21300100: run/run_0_0012
+    21300102: run/run_0_0013
+    21300104: run/run_0_0014
+    21300106: run/run_0_0015
+    21300108: run/run_2_0000
+    21300110: run/run_2_0001
+    21300112: run/run_2_0002
+    21300114: run/run_2_0003
+    21300116: run/run_2_0004
+    21300118: run/run_2_0005
+    21300120: run/run_2_0006
+    21300122: run/run_2_0007
+    21300124: run/run_2_0008
+    21300126: run/run_2_0009
+    21300128: run/run_2_0010
+    21300130: run/run_2_0011
+    21300132: run/run_2_0012
+    21300134: run/run_2_0013
+    21300136: run/run_2_0014
+    21300138: run/run_2_0015
+    21300140: run/run_4_0000
+    21300142: run/run_4_0001
+    21300144: run/run_4_0002
+    21300146: run/run_4_0003
+    21300148: run/run_4_0004
+    21300150: run/run_4_0005
+    21300152: run/run_4_0006
+    21300154: run/run_4_0007
+    21300156: run/run_4_0008
+    21300158: run/run_4_0009
+    21300160: run/run_4_0010
+    21300162: run/run_4_0011
+    21300164: run/run_4_0012
+    21300166: run/run_4_0013
+    21300168: run/run_4_0014
+    21300170: run/run_4_0015
+    21300172: run/run_6_0000
+    21300174: run/run_6_0001
+    21300176: run/run_6_0002
+    21300178: run/run_6_0003
+    21300180: run/run_6_0004
+    21300182: run/run_6_0005
+    21300184: run/run_6_0006
+    21300186: run/run_6_0007
+    21300188: run/run_6_0008
+    21300190: run/run_6_0009
+    21300192: run/run_6_0010
+    21300194: run/run_6_0011
+    21300196: run/run_6_0012
+    21300198: run/run_6_0013
+    21300200: run/run_6_0014
+    21300202: run/run_6_0015
+    21300204: stand/stand_0_0000
+    21300206: stand/stand_0_0001
+    21300208: stand/stand_0_0002
+    21300210: stand/stand_0_0003
+    21300212: stand/stand_0_0004
+    21300214: stand/stand_2_0000
+    21300216: stand/stand_2_0001
+    21300218: stand/stand_2_0002
+    21300220: stand/stand_2_0003
+    21300222: stand/stand_2_0004
+    21300224: stand/stand_4_0000
+    21300226: stand/stand_4_0001
+    21300228: stand/stand_4_0002
+    21300230: stand/stand_4_0003
+    21300232: stand/stand_4_0004
+    21300234: stand/stand_6_0000
+    21300236: stand/stand_6_0001
+    21300238: stand/stand_6_0002
+    21300240: stand/stand_6_0003
+    21300242: stand/stand_6_0004
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Showstand/Showstand_4_0000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 804
+        width: 140
+        height: 288
+      alignment: 9
+      pivot: {x: 0.55, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Showstand/Showstand_4_0001
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1062
+        width: 142
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5492958, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Showstand/Showstand_4_0002
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 944
+        width: 142
+        height: 288
+      alignment: 9
+      pivot: {x: 0.53521127, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Showstand/Showstand_4_0003
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1234
+        width: 144
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Showstand/Showstand_4_0004
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1102
+        width: 146
+        height: 288
+      alignment: 9
+      pivot: {x: 0.53424656, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Showstand/Showstand_4_0005
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1148
+        width: 142
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5422535, y: 0.38541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0000
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 712
+        width: 102
+        height: 146
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0001
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 354
+        width: 86
+        height: 142
+      alignment: 9
+      pivot: {x: 0.45348838, y: 0.471831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0002
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 138
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0003
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 642
+        width: 88
+        height: 188
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.42553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0004
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 190
+        width: 80
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4625, y: 0.41919193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0005
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 662
+        width: 88
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.41237113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 454
+        width: 86
+        height: 158
+      alignment: 9
+      pivot: {x: 0.59302324, y: 0.4620253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_0_0007
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 780
+        width: 122
+        height: 156
+      alignment: 9
+      pivot: {x: 0.45081967, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0000
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 580
+        width: 102
+        height: 136
+      alignment: 9
+      pivot: {x: 0.6764706, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0001
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1892
+        width: 102
+        height: 154
+      alignment: 9
+      pivot: {x: 0.54901963, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0002
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 860
+        width: 90
+        height: 146
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.49315068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0003
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 590
+        width: 88
+        height: 200
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0004
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 184
+        width: 82
+        height: 204
+      alignment: 9
+      pivot: {x: 0.597561, y: 0.3872549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0005
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1008
+        width: 94
+        height: 196
+      alignment: 9
+      pivot: {x: 0.64893615, y: 0.3622449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0006
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1352
+        width: 152
+        height: 142
+      alignment: 9
+      pivot: {x: 0.48026314, y: 0.48591548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_1_0007
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1916
+        width: 176
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0000
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1738
+        width: 102
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.41447368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 86
+        height: 140
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0002
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 20
+        width: 72
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.3875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 88
+        height: 188
+      alignment: 9
+      pivot: {x: 0.53409094, y: 0.32978722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0004
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2
+        width: 80
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5375, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0005
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 644
+        width: 88
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0006
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 390
+        width: 84
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.60784316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_4_0007
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 718
+        width: 122
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5491803, y: 0.63265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0000
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 540
+        width: 100
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3, y: 0.3882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0001
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 762
+        width: 100
+        height: 128
+      alignment: 9
+      pivot: {x: 0.37, y: 0.484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0002
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 792
+        width: 98
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0003
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 10
+        width: 72
+        height: 170
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.40588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0004
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2
+        width: 74
+        height: 180
+      alignment: 9
+      pivot: {x: 0.27027026, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0005
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 488
+        width: 86
+        height: 178
+      alignment: 9
+      pivot: {x: 0.22093023, y: 0.41011235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1940
+        width: 180
+        height: 106
+      alignment: 9
+      pivot: {x: 0.59444445, y: 0.6320755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: attack2/attack2_6_0007
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1256
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0000
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 188
+        width: 84
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0001
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 498
+        width: 86
+        height: 162
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.41975307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0002
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 626
+        width: 88
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0003
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 502
+        width: 88
+        height: 140
+      alignment: 9
+      pivot: {x: 0.60227275, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0004
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 498
+        width: 88
+        height: 126
+      alignment: 9
+      pivot: {x: 0.64772725, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0005
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 390
+        width: 86
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6395349, y: 0.6603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0006
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 394
+        width: 86
+        height: 106
+      alignment: 9
+      pivot: {x: 0.60465115, y: 0.6509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0007
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 182
+        width: 84
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.6388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0008
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 182
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.6388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0009
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 270
+        width: 80
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0010
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 930
+        width: 78
+        height: 108
+      alignment: 9
+      pivot: {x: 0.44871795, y: 0.6481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0011
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 60
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3974359, y: 0.6603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0012
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 168
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.3625, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0013
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 434
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0014
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 372
+        width: 86
+        height: 132
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_0_0015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 84
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.43037975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0000
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1098
+        width: 142
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5492958, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0001
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1500
+        width: 158
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5069444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1726
+        width: 170
+        height: 118
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5508475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0003
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1848
+        width: 172
+        height: 98
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0004
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1850
+        width: 174
+        height: 96
+      alignment: 9
+      pivot: {x: 0.44252872, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0005
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1748
+        width: 166
+        height: 96
+      alignment: 9
+      pivot: {x: 0.44578314, y: 0.6354167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1418
+        width: 156
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.6354167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0007
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1040
+        width: 140
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.6792453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0008
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 858
+        width: 130
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.6779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0009
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 818
+        width: 128
+        height: 124
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.67741936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0010
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 938
+        width: 134
+        height: 122
+      alignment: 9
+      pivot: {x: 0.57462686, y: 0.6967213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1196
+        width: 146
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5273973, y: 0.7105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0012
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1714
+        width: 162
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0013
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1946
+        width: 174
+        height: 100
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0014
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1948
+        width: 180
+        height: 98
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_2_0015
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1726
+        width: 166
+        height: 120
+      alignment: 9
+      pivot: {x: 0.44578314, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0000
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 44
+        width: 84
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0001
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 272
+        width: 86
+        height: 98
+      alignment: 9
+      pivot: {x: 0.47674417, y: 0.6938776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0002
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 484
+        width: 88
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4431818, y: 0.7234042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0003
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 494
+        width: 88
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.7234042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0004
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 668
+        width: 88
+        height: 92
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.7173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0005
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 292
+        width: 86
+        height: 100
+      alignment: 9
+      pivot: {x: 0.3604651, y: 0.72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0006
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 506
+        width: 86
+        height: 134
+      alignment: 9
+      pivot: {x: 0.40697673, y: 0.6268657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0007
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 84
+        height: 152
+      alignment: 9
+      pivot: {x: 0.44047618, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0008
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 380
+        width: 82
+        height: 158
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0009
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 274
+        width: 80
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.56962025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0010
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1364
+        width: 78
+        height: 158
+      alignment: 9
+      pivot: {x: 0.55128205, y: 0.5949367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0011
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1206
+        width: 78
+        height: 156
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.6282051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 80
+        height: 148
+      alignment: 9
+      pivot: {x: 0.6375, y: 0.6554054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0013
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 368
+        width: 86
+        height: 118
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.720339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0014
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 86
+        height: 92
+      alignment: 9
+      pivot: {x: 0.59302324, y: 0.7173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_4_0015
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 296
+        width: 84
+        height: 92
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.70652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0000
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 978
+        width: 142
+        height: 122
+      alignment: 9
+      pivot: {x: 0.45774648, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1516
+        width: 156
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0.5272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0002
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1818
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5352941, y: 0.6041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0003
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1756
+        width: 172
+        height: 92
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.6413044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 174
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5632184, y: 0.6413044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1628
+        width: 166
+        height: 96
+      alignment: 9
+      pivot: {x: 0.55421686, y: 0.6354167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0006
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1652
+        width: 156
+        height: 94
+      alignment: 9
+      pivot: {x: 0.53205127, y: 0.62765956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0007
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1000
+        width: 140
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47857141, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0008
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 938
+        width: 130
+        height: 100
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0009
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 832
+        width: 128
+        height: 104
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.58653843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0010
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 892
+        width: 134
+        height: 106
+      alignment: 9
+      pivot: {x: 0.42537314, y: 0.6037736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1094
+        width: 146
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0012
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1628
+        width: 162
+        height: 96
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.6354167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0013
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1846
+        width: 174
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5689655, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0014
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1948
+        width: 180
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5888889, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: run/run_6_0015
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1646
+        width: 166
+        height: 108
+      alignment: 9
+      pivot: {x: 0.55421686, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_0_0000
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 156
+        width: 72
+        height: 114
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_0_0001
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 22
+        width: 72
+        height: 114
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.65789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_0_0002
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 4
+        width: 72
+        height: 114
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.65789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_0_0003
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 74
+        height: 114
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.65789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_0_0004
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 74
+        height: 116
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.6551724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_2_0000
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1392
+        width: 154
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5943396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_2_0001
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1410
+        width: 154
+        height: 106
+      alignment: 9
+      pivot: {x: 0.44805196, y: 0.6037736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_2_0002
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1496
+        width: 154
+        height: 106
+      alignment: 9
+      pivot: {x: 0.44805196, y: 0.5943396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_2_0003
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1438
+        width: 154
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44805196, y: 0.59615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_2_0004
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1524
+        width: 154
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44805196, y: 0.59615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_4_0000
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 168
+        width: 72
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_4_0001
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 168
+        width: 72
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_4_0002
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 66
+        width: 72
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_4_0003
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 280
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_4_0004
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 382
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_6_0000
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1544
+        width: 154
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5519481, y: 0.5943396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_6_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1312
+        width: 154
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5584416, y: 0.59615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_6_0002
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1630
+        width: 154
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5584416, y: 0.5943396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_6_0003
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1518
+        width: 154
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5584416, y: 0.6018519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stand/stand_6_0004
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1604
+        width: 154
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5584416, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

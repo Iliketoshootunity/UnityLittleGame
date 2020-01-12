@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27B65FC2-D945-410B-B74E-4BBF27F03607}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CheckResourceTool</RootNamespace>
+    <AssemblyName>CheckResourceTool</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tool.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LitJson">
+      <HintPath>Dlls\LitJson.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CacheInfos\AutoGenerateResourceCacheInfo.cs" />
+    <Compile Include="CacheInfos\CacheInfoBase.cs" />
+    <Compile Include="CacheInfos\SensitiveWordDictionaryCacheInfo.cs" />
+    <Compile Include="CacheInfos\UnityexePathCacheInfo.cs" />
+    <Compile Include="CacheInfos\UnityProjectPathCacheInfo.cs" />
+    <Compile Include="Global\CacheTool.cs" />
+    <Compile Include="Global\EncryptTool.cs" />
+    <Compile Include="Global\ExternTool.cs" />
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_CheckConfigFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_DownloadResourceInList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_AutoGenerateResourceZIP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_UpdateResource.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionPanels\InfoClass.cs" />
+    <Compile Include="IndependentPanel\MissionPanels\MissionPanel_AutoGenerateResourceZIP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionPanels\MissionPanel_CheckConfigFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionPanels\MissionPanel_DownloadResourceInList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_Info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_Info.Designer.cs">
+      <DependentUpon>Component_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_Link.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_Link.Designer.cs">
+      <DependentUpon>Component_Link.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_NormalInfoPair.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_NormalInfoPair.Designer.cs">
+      <DependentUpon>Component_NormalInfoPair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_NormalTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_NormalTextBox.Designer.cs">
+      <DependentUpon>Component_NormalTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_URLSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\SmallComponents\Component_URLSelect.Designer.cs">
+      <DependentUpon>Component_URLSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormalConnects\Connection_Base.cs" />
+    <Compile Include="Global\Global.cs" />
+    <Compile Include="NormalConnects\HttpConnect.cs" />
+    <Compile Include="NormalConnects\LocalConnect.cs" />
+    <Compile Include="Global\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\Program.cs" />
+    <Compile Include="IndependentPanel\MainFormAreas\CreateMission_Area.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MainFormAreas\CreateMission_Area.Designer.cs">
+      <DependentUpon>CreateMission_Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_Base.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_Base.Designer.cs">
+      <DependentUpon>MissionOption_Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_CheckResourceList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionPanels\MissionPanel_Base.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionPanels\MissionPanel_Base.Designer.cs">
+      <DependentUpon>MissionPanel_Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndependentPanel\MissionPanels\MissionPanel_CheckResourceList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Global\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\MainFormAreas\CreateMission_Area.resx">
+      <DependentUpon>CreateMission_Area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_AutoGenerateResourceZIP.resx">
+      <DependentUpon>MissionOption_AutoGenerateResourceZIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_Base.resx">
+      <DependentUpon>MissionOption_Base.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\MissionOptionSettingPanels\MissionOption_CheckConfigFiles.resx">
+      <DependentUpon>MissionOption_CheckConfigFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\MissionPanels\MissionPanel_Base.resx">
+      <DependentUpon>MissionPanel_Base.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\MissionPanels\MissionPanel_CheckResourceList.resx">
+      <DependentUpon>MissionPanel_CheckResourceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\SmallComponents\Component_Info.resx">
+      <DependentUpon>Component_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\SmallComponents\Component_Link.resx">
+      <DependentUpon>Component_Link.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\SmallComponents\Component_NormalInfoPair.resx">
+      <DependentUpon>Component_NormalInfoPair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\SmallComponents\Component_NormalTextBox.resx">
+      <DependentUpon>Component_NormalTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndependentPanel\SmallComponents\Component_URLSelect.resx">
+      <DependentUpon>Component_URLSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\refresh.png" />
+    <Content Include="tool.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

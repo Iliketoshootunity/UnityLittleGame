@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 8241b5e4d903d0047808ec15589da2f6
+timeCreated: 1555304926
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero1/Attack/Attack_2_0001
+    21300002: Hero1/Attack/Attack_2_0002
+    21300004: Hero1/Attack/Attack_2_0003
+    21300006: Hero1/Attack/Attack_2_0004
+    21300008: Hero1/Attack/Attack_2_0005
+    21300010: Hero1/Attack/Attack_2_0006
+    21300012: Hero1/Attack/Attack_2_0007
+    21300014: Hero1/Attack/Attack_2_0008
+    21300016: Hero1/Beattack/Beattack_2_0001
+    21300018: Hero1/Beattack/Beattack_2_0002
+    21300020: Hero1/Beattack/Beattack_2_0003
+    21300022: Hero1/Dead/Dead_0_0001
+    21300024: Hero1/Dead/Dead_0_0002
+    21300026: Hero1/Dead/Dead_0_0003
+    21300028: Hero1/Stand/Stand_2_0001
+    21300030: Hero1/Stand/Stand_2_0002
+    21300032: Hero1/Stand/Stand_2_0003
+    21300034: Hero1/Stand/Stand_2_0004
+    21300036: Hero1/Stand/Stand_2_0005
+    21300038: Hero1/Stand/Stand_2_0006
+    21300040: Hero1/Walk/Walk_2_0000
+    21300042: Hero1/Walk/Walk_2_0001
+    21300044: Hero1/Walk/Walk_2_0002
+    21300046: Hero1/Walk/Walk_2_0003
+    21300048: Hero1/Walk/Walk_2_0004
+    21300050: Hero1/Walk/Walk_2_0005
+    21300052: Hero1/Walk/Walk_2_0006
+    21300054: Hero1/Walk/Walk_2_0007
+    21300056: Monster1/Attack/Attack_2_0000
+    21300058: Monster1/Attack/Attack_2_0001
+    21300060: Monster1/Attack/Attack_2_0002
+    21300062: Monster1/Attack/Attack_2_0003
+    21300064: Monster1/Attack/Attack_2_0004
+    21300066: Monster1/Attack/Attack_2_0005
+    21300068: Monster1/Attack/Attack_2_0006
+    21300070: Monster1/Attack/Attack_2_0007
+    21300072: Monster1/Beattack/Beattack_2_0000
+    21300074: Monster1/Beattack/Beattack_2_0001
+    21300076: Monster1/Beattack/Beattack_2_0002
+    21300078: Monster1/Dead/Dead_0_0000
+    21300080: Monster1/Dead/Dead_0_0001
+    21300082: Monster1/Dead/Dead_0_0002
+    21300084: Monster1/Stand/Stand_2_0001
+    21300086: Monster1/Stand/Stand_2_0002
+    21300088: Monster1/Stand/Stand_2_0003
+    21300090: Monster1/Stand/Stand_2_0004
+    21300092: Monster1/Stand/Stand_2_0005
+    21300094: Monster1/Stand/Stand_2_0006
+    21300096: Monster1/Walk/Walk_2_0000
+    21300098: Monster1/Walk/Walk_2_0001
+    21300100: Monster1/Walk/Walk_2_0002
+    21300102: Monster1/Walk/Walk_2_0003
+    21300104: Monster1/Walk/Walk_2_0004
+    21300106: Monster1/Walk/Walk_2_0005
+    21300108: Monster1/Walk/Walk_2_0006
+    21300110: Monster1/Walk/Walk_2_0007
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0001
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 120
+        width: 114
+        height: 124
+      alignment: 9
+      pivot: {x: 0.35964912, y: 0.5483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0002
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 780
+        width: 110
+        height: 146
+      alignment: 9
+      pivot: {x: 0.6090909, y: 0.47260273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0003
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 844
+        width: 124
+        height: 178
+      alignment: 9
+      pivot: {x: 0.7096774, y: 0.38764045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 126
+        height: 158
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.43670887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0005
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 550
+        width: 172
+        height: 96
+      alignment: 9
+      pivot: {x: 0.15697674, y: 0.7916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0006
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 740
+        width: 166
+        height: 102
+      alignment: 9
+      pivot: {x: 0.12650603, y: 0.74509805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0007
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 156
+        height: 96
+      alignment: 9
+      pivot: {x: 0.13461539, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Attack/Attack_2_0008
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 72
+        width: 122
+        height: 108
+      alignment: 9
+      pivot: {x: 0.31967214, y: 0.6018519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Beattack/Beattack_2_0001
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 648
+        width: 118
+        height: 130
+      alignment: 9
+      pivot: {x: 0.12711865, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Beattack/Beattack_2_0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 116
+        height: 118
+      alignment: 9
+      pivot: {x: 0.37068966, y: 0.6101695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Beattack/Beattack_2_0003
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 182
+        width: 118
+        height: 120
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Dead/Dead_0_0001
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 72
+        width: 78
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5958904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Dead/Dead_0_0002
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 790
+        width: 162
+        height: 128
+      alignment: 9
+      pivot: {x: 0.80864197, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Dead/Dead_0_0003
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 136
+        height: 102
+      alignment: 9
+      pivot: {x: 0.75735295, y: 0.75490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Stand/Stand_2_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 124
+        height: 122
+      alignment: 9
+      pivot: {x: 0.19354838, y: 0.59016395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Stand/Stand_2_0002
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 672
+        width: 128
+        height: 122
+      alignment: 9
+      pivot: {x: 0.2109375, y: 0.59016395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Stand/Stand_2_0003
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 496
+        width: 130
+        height: 120
+      alignment: 9
+      pivot: {x: 0.22307692, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Stand/Stand_2_0004
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 550
+        width: 130
+        height: 120
+      alignment: 9
+      pivot: {x: 0.22307692, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Stand/Stand_2_0005
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 618
+        width: 130
+        height: 120
+      alignment: 9
+      pivot: {x: 0.22307692, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Stand/Stand_2_0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 386
+        width: 126
+        height: 122
+      alignment: 9
+      pivot: {x: 0.20634921, y: 0.59016395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0000
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 106
+        width: 122
+        height: 112
+      alignment: 9
+      pivot: {x: 0.36885247, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 124
+        height: 116
+      alignment: 9
+      pivot: {x: 0.3548387, y: 0.5862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0002
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 246
+        width: 118
+        height: 124
+      alignment: 9
+      pivot: {x: 0.2881356, y: 0.57258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0003
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 304
+        width: 118
+        height: 124
+      alignment: 9
+      pivot: {x: 0.21186441, y: 0.57258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 510
+        width: 126
+        height: 122
+      alignment: 9
+      pivot: {x: 0.23015873, y: 0.59016395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0005
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 430
+        width: 132
+        height: 118
+      alignment: 9
+      pivot: {x: 0.2651515, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0006
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 430
+        width: 128
+        height: 118
+      alignment: 9
+      pivot: {x: 0.2890625, y: 0.55932206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hero1/Walk/Walk_2_0007
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 372
+        width: 124
+        height: 122
+      alignment: 9
+      pivot: {x: 0.30645162, y: 0.5491803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0000
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 346
+        width: 196
+        height: 90
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.82222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0001
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 200
+        width: 202
+        height: 68
+      alignment: 9
+      pivot: {x: 0.63366336, y: 1.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0002
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 6
+        width: 188
+        height: 64
+      alignment: 9
+      pivot: {x: 0.67021275, y: 1.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0003
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 196
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6530612, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 196
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8469388, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0005
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 210
+        height: 58
+      alignment: 9
+      pivot: {x: 0.43333334, y: 1.1034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0006
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 198
+        height: 68
+      alignment: 9
+      pivot: {x: 0.530303, y: 1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Attack/Attack_2_0007
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 270
+        width: 204
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6666667, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Beattack/Beattack_2_0000
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 836
+        width: 208
+        height: 90
+      alignment: 9
+      pivot: {x: 0.625, y: 0.82222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Beattack/Beattack_2_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 190
+        height: 106
+      alignment: 9
+      pivot: {x: 0.75789475, y: 0.6981132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Beattack/Beattack_2_0002
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 208
+        height: 94
+      alignment: 9
+      pivot: {x: 0.65865386, y: 0.78723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Dead/Dead_0_0000
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 796
+        width: 150
+        height: 130
+      alignment: 9
+      pivot: {x: 0.48666668, y: 0.52307695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Dead/Dead_0_0001
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 124
+        width: 154
+        height: 74
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Dead/Dead_0_0002
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 30
+        width: 110
+        height: 74
+      alignment: 9
+      pivot: {x: 0.44545454, y: 0.9864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Stand/Stand_2_0001
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 372
+        width: 198
+        height: 90
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.82222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Stand/Stand_2_0002
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 556
+        width: 200
+        height: 90
+      alignment: 9
+      pivot: {x: 0.62, y: 0.82222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Stand/Stand_2_0003
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 438
+        width: 196
+        height: 92
+      alignment: 9
+      pivot: {x: 0.61734694, y: 0.8043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Stand/Stand_2_0004
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 648
+        width: 198
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6212121, y: 0.8043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Stand/Stand_2_0005
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 742
+        width: 198
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6212121, y: 0.8043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Stand/Stand_2_0006
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 464
+        width: 198
+        height: 90
+      alignment: 9
+      pivot: {x: 0.61616164, y: 0.82222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0000
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 620
+        width: 226
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6017699, y: 0.74390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0001
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 532
+        width: 212
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6462264, y: 0.89534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0002
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 346
+        width: 212
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6603774, y: 0.9268293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0003
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 292
+        width: 216
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.84615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0004
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 220
+        width: 210
+        height: 70
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.82857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0005
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 928
+        width: 216
+        height: 94
+      alignment: 9
+      pivot: {x: 0.6342593, y: 0.78723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0006
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 920
+        width: 222
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6351351, y: 0.7058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monster1/Walk/Walk_2_0007
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 704
+        width: 230
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

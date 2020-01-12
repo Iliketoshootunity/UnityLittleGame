@@ -1,0 +1,26 @@
+{
+	"KeyWords":
+	[
+	]
+	,
+	"Resources":
+	[
+		"Android/Android",
+		"Android/chart/ui_promptalone",
+		"Android/font/msyh",
+		"Android/texture/jiazai",
+		"Android/texture/loadbackground",
+		"Android/texture/loadslider",
+		"Android/ui/uidownloading",
+		"Android/ui/uipromptalonepanel",
+		"iOS/iOS",
+		"iOS/chart/ui_promptalone",
+		"iOS/font/msyh",
+		"iOS/texture/jiazai",
+		"iOS/texture/loadbackground",
+		"iOS/texture/loadslider",
+		"iOS/ui/uidownloading",
+		"iOS/ui/uipromptalonepanel",
+		"Table/sundry.bytes"
+	]
+}
